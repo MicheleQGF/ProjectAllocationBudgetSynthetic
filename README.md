@@ -1,6 +1,3 @@
-# ProjectAllocationBudgetSynthetic
-Resource allocation and budget analysis of three real Jira projects (Mule, Titanium, Appcelerator) with simulated seniority tiers and budgets. Python, Docker, Tableau.
-
 # Resource Allocation and Budget Analysis in Three TAWOS Projects
 
 How does the seniority mix of a team relate to what it delivers, what it costs and how often work comes back? This project analyzes ~20,800 real Jira issues from three open-source projects (Mule, Titanium Mobile Platform, Appcelerator Studio). It uses earned value management (EVM), burn-up, effort concentration, rework, lateness and bus-factor measures, and presents the results as a five-dashboard Tableau story.
