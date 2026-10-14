@@ -1,0 +1,4 @@
+Project_Name,Hours,Actual_Cost_USD,Uncapped_Cost_USD,Pct_Cost_Assumed_Rate,Scenario,Factor,Annual_Budget_USD,Simulated_Budget_USD,Variance_USD,Variance_%,Budget_Status
+Appcelerator Studio,185927.81666666668,8062786.342999999,13933647.211666666,2.5,On budget (fixed annual),,800000.0,7719452.05479452,-343334.2882054793,-4.4,On budget (within 5%)
+Mule,562968.15,22048016.906833332,47451102.42916667,1.9,Under budget (comfortable),1.2,,26457620.2882,4409603.381366666,16.7,Under budget
+Titanium Mobile Platform,312799.85,10925025.394666666,31310836.576833334,1.8,Over budget (tight),0.85,,9286271.585466666,-1638753.8092,-17.6,Over budget

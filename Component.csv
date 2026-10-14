@@ -1,0 +1,192 @@
+ID,Jira_ID,Name,Description,Project_ID
+380,11903,APIDoc,YML Docs,11
+381,11904,Guides,Tutorials and Guide in Confluence,11
+382,12615,Tooling,DocTool/JSDuck/TiMobile Python Tools,11
+383,13003,Cloud,ACS/Node.ACS/Cloud docs,11
+384,14800,Stratus,Stratus docs,11
+385,13404,360,Enterprise Documentation,11
+1953,11400,Login,Items related to logging in/out and the splash screen,13
+1954,10301,Debugging,,13
+1955,10233,iOS,iOS platform support,13
+1956,11408,Desktop,Titanium Desktop support,13
+1957,10736,Editor,Editor-related tickets (most likely Aptana tickets),13
+1958,13717,Setup,Issues setting up Studio,13
+1959,11707,Projects,,13
+1960,13613,Windows,Windows platform support,13
+1961,14202,Formatter,Source Code Formatting,13
+1962,10249,Build,Anything having to do with hudson or configuring the build server,13
+1963,10252,Installer,Anything having to do with the installation process,13
+1964,15500,Arrow,Appcelerator Arrow,13
+1965,11705,Templates,,13
+1966,10232,Android,Android platform support,13
+1967,15017,Hyperloop,Hyperloop,13
+1968,13612,Update,Update issues,13
+1969,15012,Studio Error reporting,Studio Error reporting ,13
+1970,12611,Node,Node.js integration,13
+1971,11709,Tiapp,,13
+1972,11713,Launcher,,13
+1973,12505,Alloy,,13
+1974,11724,JS,Editor/Features specific to JavaScript,13
+1975,12506,360,,13
+1976,11601,Modules,Module projects,13
+1977,13307,LiveView,LiveView integration,13
+1978,15628,Appc Daemon,Appc Daemon,13
+1979,10253,SDK,Updating and installation of the Titanium SDKs inside Titanium Studio,13
+1980,11712,Usability,,13
+1981,11721,Mobile,"Items related to mobile projects, not specific to any platform",13
+1982,11407,SDK Configuration,Configuring the iOS/Android SDKs,13
+1983,10247,Scripting,The core java and jruby support that implements the ruble framework,13
+1984,10246,Terminal,The terminal window,13
+1985,11901,Console,The console inside Studio,13
+1986,13319,Profiling,,13
+1987,11700,Configuration,General configuration,13
+1988,10251,Analytics,,13
+1989,11708,Dashboard,,13
+1990,11706,Samples,,13
+1991,10234,MobileWeb,html5 output platform support,13
+1992,15100,Windows phone,Windows phone support,13
+1993,10242,Publishing,"The deployment and packaging system. Synchronization, upload, etc.",13
+1994,11722,Indexing,,13
+1995,11330,Cloud,,13
+1996,15011,App Designer,Appcelerator App Designer,13
+1997,11715,Validation,,13
+1998,11200,Content Assist,Content assist issues in Titanium Studio,13
+1999,13511,Enterprise,,13
+2000,11723,Help,,13
+2001,10254,Theme,Themeing support inside Studio ,13
+2002,10231,BlackBerry,Blackberry platform support,13
+2003,13320,Code Processor,,13
+2004,13007,Tizen,Tizen-related items,13
+2005,12323,Source Control,,13
+2006,13006,Denso,Denso-related features,13
+2007,11720,I18N,,13
+2008,11714,Outline,,13
+1823,19045,Connector: Sockets,https://github.com/mulesoft/mule-sockets-connector,36
+1824,23325,Mule Runtime,,36
+1825,10115,Core: Components,,36
+1826,18152,Tooling Client,,36
+1827,10060,Core: API,,36
+1828,14575,Modules: HTTP,Modules: HTTP,36
+1829,15943,Core: DSL processing,Mule DSL parsing,36
+1830,14342,Extensions API,Mule API to extend the functionality. ,36
+1831,10164,Build: Integration Tests,,36
+1832,19237,Module: Secure Properties,https://github.com/mulesoft/mule-secure-configuration-property,36
+1833,17344,Core: Policies,,36
+1834,10130,Modules: CXF,Apache CXF,36
+1835,11014,Core: Transactions,,36
+1836,19502,Service: SOAP,SOAP Service implementation,36
+1837,19558,XML SDK,,36
+1838,15568,sdk,,36
+1839,10662,Core: Expressions,The expression evaluator framework,36
+1840,18975,Connector: DB,https://github.com/mulesoft/mule-db-connector,36
+1841,18509,Interception API,,36
+1842,10111,Transport: FTP / SFTP,,36
+1843,10168,Core: (other),,36
+1844,10681,Core: Services,,36
+1845,19203,Modules: OAuth,https://github.com/mulesoft/mule-oauth-module,36
+1846,10200,Core: Deployment,,36
+1847,16042,Test: Testing Framework,,36
+1848,10040,Documentation / Website,,36
+1849,10031,Core: Routing / Filters,,36
+1850,10720,Core: Event/Message,,36
+1851,10190,Core: Exception Handling,,36
+1852,10210,Core: Concurrency / Threading,,36
+1853,15342,Core: Non-Blocking,,36
+1854,10006,Transport: HTTP(S) / Jetty,,36
+1855,19014,Service: HTTP,https://github.com/mulesoft/mule-http-service/,36
+1856,11013,Core: Flow,,36
+1857,14040,Core: Logging,,36
+1858,19225,Service: Scheduling,,36
+1859,15946,Core: Classloading,,36
+1860,18480,Core: ObjectStore,,36
+1861,10005,Transport: VM,,36
+1862,19110,Module: Aggregators,,36
+1863,10682,Tools: Archetypes,,36
+1864,19359,SDK AST,,36
+1865,10007,Transport: Email,,36
+1866,10243,Build: Distributions,,36
+1867,18087,mule4,,36
+1868,10050,Build: (other),,36
+1869,10240,Core: Lifecycle,,36
+1870,10160,"Modules: Security (Spring Security, Acegi, PGP, WS-Security)",,36
+1871,13548,Core: Domains shared resources,,36
+1872,15476,Extensions,,36
+1873,11011,Core: Properties,,36
+1874,19010,Connector: VM,https://github.com/mulesoft/mule-vm-connector,36
+1875,10004,Core: Transformers,,36
+1876,17144,Other,,36
+1877,16655,Extensions: Maven Plugin,,36
+1878,10173,Tools,,36
+1879,10165,Build: Maven,,36
+1880,19190,core: Notifications,,36
+1881,13741,Modules: WS Consumer,,36
+1882,19758,Connector: ObjectStore,https://github.com/mulesoft/mule-objectstore-connector,36
+1883,18148,Studio,,36
+1884,10241,Core: Streaming,,36
+1885,15650,e: DataSense,,36
+1886,18037,Launcher,,36
+1887,16643,Modules: FTP,FTP/SFTP/FTPS,36
+1888,18961,Tooling API,,36
+1889,10002,Transport: JMS,,36
+1890,18951,dataweave,,36
+1891,10270,Core: Bootstrap / Standalone,,36
+1892,14576,Batch,,36
+1893,15684,Debugger,,36
+1894,10260,Modules: BPM / Rules,,36
+1895,10003,Core: Configuration,,36
+1896,10116,Core: Agents,,36
+1897,16645,Modules: Email,SMTP/IMAP/POP3,36
+1898,10008,Transport: File,,36
+1899,17753,jms-module,,36
+1900,13645,Modules: File,,36
+1901,10320,Core: Registry,The Mule object Registry,36
+1902,18145,soap,,36
+1903,10251,Modules: Expressions,,36
+1904,18149,Maven Module Plugin,,36
+1905,10250,"Modules: XML, XSLT, XPath, SXC",,36
+1906,10001,Core: Transports,,36
+1907,10000,Core: Containers,,36
+1908,10760,Core: Sessions,,36
+1909,10847,Modules: RSS / ATOM,Working with RSS and ATOM formats,36
+1910,10166,Build: Libraries / Dependencies,,36
+1911,10167,Modules: (other),,36
+1912,10400,Core: Endpoints,,36
+1913,13443,Modules: Devkit Support,,36
+1914,10201,Core: Queues (SEDA) / Persistence,,36
+1915,11012,Core: Request-Reply,,36
+1916,18033,Modules: JBPM,,36
+1917,10051,Modules: Management / JMX,,36
+1918,10110,Transport: Quartz,,36
+1919,16644,Modules: Sockets,TCP/UDP,36
+1920,10061,Transport: TCP / UDP / SSL / Multicast,,36
+1921,10408,Modules: XA Transactions,,36
+1922,19767,Service: OAuth,,36
+1923,20040,SOAP Engine,,36
+1924,10153,Modules: MuleClient,,36
+1925,10211,Core: Encoding / I18N,,36
+1926,16940,in Console Access Request,,36
+1927,10893,Modules: Jersey,,36
+1928,10063,Transport: (other),,36
+1929,12944,Module: APIKit,APIKit,36
+1930,10152,Module: Scripting,https://github.com/mulesoft/mule-scripting-module,36
+1931,13955,Modules: Database,,36
+1932,10117,Transport: XMPP (Jabber),,36
+1933,10114,Transport: JDBC,,36
+1934,10141,Transport: Axis,The Axis SOAP transport,36
+1935,10960,Schema,,36
+1936,15343,Test: Test Namespace,,36
+1937,10171,Examples / Tutorials,,36
+1938,10175,Build: JDK Compatibility,,36
+1939,13953,Core: Watermark,Watermark,36
+1940,22841,Mule CI,,36
+1941,10732,Transport: AJAX,,36
+1942,10080,Modules: JCA Resource Adapter,,36
+1943,11757,Mule Core,,36
+1944,10864,Modules: iBeans,,36
+1945,10009,Transport: Stream (System.in/out),,36
+1946,10112,Transport: EJB / RMI,,36
+1947,10466,Build: Libraries / Dependencies,,36
+1948,10504,Transport: Email,,36
+1949,10230,Transport: (new transport),,36
+1950,10157,Modules: Spring,https://github.com/mulesoft/mule-spring-module,36
+1951,10252,Modules: I18n,,36

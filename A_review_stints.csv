@@ -1,0 +1,1025 @@
+Field,To_String,Review_Start,Issue_ID,To,Left_At,Review_Hours,Issue_Key,Project_Name,Seniority_Tier,Assignee_ID_Final,Owner_Tier,Junior_Side,Comments_by_Others,Senior_Comments,Has_Senior_Comment
+status,In Review,2020-09-10 21:05:03,37999,in review,2020-09-10 23:19:14,2.236388888888889,TIDOC-3401,Titanium Mobile Platform,,8848.0,No tier (assumed rate),False,0,0,False
+status,In Review,2020-08-12 23:40:59,38000,in review,2020-10-01 10:26:53,1186.765,TIDOC-3400,Titanium Mobile Platform,Junior,8851.0,Junior,True,0,0,False
+status,In Review,2020-05-01 23:38:01,38003,in review,2020-05-01 23:56:06,0.3013888888888889,TIDOC-3397,Titanium Mobile Platform,,8848.0,No tier (assumed rate),False,0,0,False
+status,In Review,2020-02-18 10:57:13,38005,in review,2020-02-18 19:19:56,8.37861111111111,TIDOC-3395,Titanium Mobile Platform,Junior,8852.0,Junior,True,0,0,False
+status,In Review,2019-05-24 09:54:59,38063,in review,2019-07-24 13:45:25,1467.8405555555555,TIDOC-3323,Titanium Mobile Platform,Junior,8852.0,Junior,True,0,0,False
+status,In Review,2019-03-07 19:32:20,38081,in review,2019-06-24 11:40:32,2608.1366666666668,TIDOC-3299,Titanium Mobile Platform,Junior,8851.0,Junior,True,0,0,False
+status,In Review,2019-02-20 10:13:57,38087,in review,2019-04-01 20:50:23,970.6072222222223,TIDOC-3289,Titanium Mobile Platform,Junior,8852.0,Junior,True,0,0,False
+status,In Review,2019-02-20 03:11:56,38089,in review,2019-02-20 18:17:19,15.089722222222223,TIDOC-3287,Titanium Mobile Platform,,8849.0,No tier (assumed rate),False,2,1,True
+status,In Review,2019-04-02 10:22:28,38092,in review,2019-04-02 21:49:25,11.449166666666667,TIDOC-3282,Titanium Mobile Platform,Junior,8871.0,Junior,True,0,0,False
+status,In Review,2019-01-28 11:41:54,38094,in review,2019-06-24 11:41:20,3527.9905555555556,TIDOC-3279,Titanium Mobile Platform,Junior,8851.0,Junior,True,0,0,False
+status,In Review,2018-08-09 17:19:21,38137,in review,2018-08-10 17:17:36,23.970833333333335,TIDOC-3221,Titanium Mobile Platform,Junior,8851.0,Junior,True,0,0,False
+status,In Review,2018-08-06 09:11:23,38140,in review,2018-08-06 10:30:43,1.3222222222222222,TIDOC-3218,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In Review,2018-07-17 14:04:12,38145,in review,2018-07-17 19:11:26,5.120555555555556,TIDOC-3213,Titanium Mobile Platform,,8847.0,No tier (assumed rate),False,0,0,False
+status,In Review,2018-07-11 02:51:52,38147,in review,2018-07-11 17:39:42,14.797222222222222,TIDOC-3211,Titanium Mobile Platform,,8849.0,No tier (assumed rate),False,1,0,False
+status,In Review,2018-07-10 22:00:01,38149,in review,2018-07-10 22:50:11,0.8361111111111111,TIDOC-3209,Titanium Mobile Platform,,8869.0,No tier (assumed rate),False,0,0,False
+status,In Review,2018-07-03 19:08:28,38151,in review,2018-07-04 02:20:07,7.194166666666667,TIDOC-3206,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,0,0,False
+status,In Review,2018-06-29 12:27:25,38152,in review,2018-06-29 14:02:42,1.5880555555555556,TIDOC-3205,Titanium Mobile Platform,Junior,8852.0,Junior,True,0,0,False
+status,In Review,2018-06-26 16:38:27,38153,in review,2018-06-26 17:51:22,1.2152777777777777,TIDOC-3204,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In Review,2018-05-18 23:14:30,38165,in review,2018-05-19 11:18:16,12.062777777777777,TIDOC-3190,Titanium Mobile Platform,,8849.0,No tier (assumed rate),False,0,0,False
+status,In Review,2020-09-21 11:19:58,38169,in review,2020-09-21 14:29:13,3.154166666666667,TIDOC-3186,Titanium Mobile Platform,,8847.0,No tier (assumed rate),False,0,0,False
+status,In Review,2018-05-21 10:35:29,38172,in review,2018-05-21 10:35:33,0.0011111111111111111,TIDOC-3183,Titanium Mobile Platform,Junior,8852.0,Junior,True,0,0,False
+status,In Review,2018-05-03 13:22:02,38173,in review,2018-05-03 17:03:42,3.6944444444444446,TIDOC-3182,Titanium Mobile Platform,Junior,8861.0,Junior,True,1,0,False
+status,In Review,2018-05-01 13:48:45,38176,in review,2018-05-29 13:18:37,671.4977777777777,TIDOC-3179,Titanium Mobile Platform,,8847.0,No tier (assumed rate),False,1,0,False
+status,In Review,2018-04-25 16:17:50,38179,in review,2018-04-26 18:01:59,25.735833333333332,TIDOC-3176,Titanium Mobile Platform,Junior,8861.0,Junior,True,1,0,False
+status,In Review,2018-07-02 16:58:20,38186,in review,2018-07-02 19:47:20,2.816666666666667,TIDOC-3169,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,0,0,False
+status,In Review,2018-04-09 14:25:47,38190,in review,2018-04-09 15:02:34,0.6130555555555556,TIDOC-3164,Titanium Mobile Platform,,8847.0,No tier (assumed rate),False,0,0,False
+status,In Review,2018-03-28 21:12:18,38193,in review,2018-04-19 11:35:53,518.3930555555555,TIDOC-3160,Titanium Mobile Platform,,8847.0,No tier (assumed rate),False,2,0,False
+status,In Review,2018-03-27 11:11:51,38194,in review,2018-04-06 17:03:55,245.86777777777777,TIDOC-3159,Titanium Mobile Platform,Junior,8852.0,Junior,True,2,0,False
+status,In Review,2018-04-17 17:15:53,38204,in review,2018-04-20 17:06:19,71.84055555555555,TIDOC-3147,Titanium Mobile Platform,Junior,8851.0,Junior,True,7,0,False
+status,In Review,2018-03-06 20:34:15,38214,in review,2018-06-19 14:44:04,2514.163611111111,TIDOC-3126,Titanium Mobile Platform,Junior,8861.0,Junior,True,1,0,False
+status,In Review,2018-03-19 15:03:12,38229,in review,2019-06-27 17:21:09,11162.299166666666,TIDOC-3108,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In Review,2018-01-17 16:34:33,38239,in review,2019-09-20 21:59:02,14669.408055555556,TIDOC-3096,Titanium Mobile Platform,Senior,8858.0,Senior,False,3,0,False
+status,In Review,2018-01-23 18:43:28,38245,in review,2018-01-30 21:49:39,171.10305555555556,TIDOC-3090,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,0,0,False
+status,In Review,2018-01-17 17:58:50,38260,in review,2018-01-30 23:15:56,317.285,TIDOC-3071,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,1,0,False
+status,In Review,2017-12-11 21:20:27,38261,in review,2017-12-11 21:52:32,0.5347222222222222,TIDOC-3070,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,1,0,False
+status,In Review,2017-10-16 17:09:52,38289,in review,2017-10-20 21:25:36,100.26222222222222,TIDOC-3030,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,1,0,False
+status,In Review,2017-09-07 15:09:47,38317,in review,2017-10-19 18:42:04,1011.5380555555555,TIDOC-2999,Titanium Mobile Platform,Junior,8851.0,Junior,True,1,0,False
+status,In Review,2017-08-26 14:27:30,38318,in review,2018-11-03 08:49:04,10410.359444444444,TIDOC-2996,Titanium Mobile Platform,Junior,8861.0,Junior,True,3,0,False
+status,In Review,2017-08-03 23:15:33,38349,in review,2017-08-15 19:04:13,283.81111111111113,TIDOC-2961,Titanium Mobile Platform,Mid,8865.0,Mid,False,1,0,False
+status,In Review,2017-08-02 21:41:35,38351,in review,2017-08-04 20:57:30,47.265277777777776,TIDOC-2959,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,0,0,False
+status,In Review,2017-07-25 18:08:17,38358,in review,2017-07-27 17:34:53,47.443333333333335,TIDOC-2952,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,1,0,False
+status,In Review,2017-07-21 04:16:45,38363,in review,2017-07-21 04:47:03,0.505,TIDOC-2945,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2017-07-10 19:21:40,38372,in review,2017-08-01 22:20:13,530.9758333333333,TIDOC-2936,Titanium Mobile Platform,Mid,8865.0,Mid,False,0,0,False
+status,In Review,2017-08-15 22:00:24,38379,in review,2017-09-21 17:07:35,883.1197222222222,TIDOC-2929,Titanium Mobile Platform,Mid,8865.0,Mid,False,0,0,False
+status,In  Review,2017-07-13 21:44:17,38384,in review,2017-08-01 22:17:28,456.55305555555555,TIDOC-2921,Titanium Mobile Platform,Mid,8865.0,Mid,False,0,0,False
+status,In  Review,2017-07-13 21:50:13,38388,in review,2017-08-01 22:11:41,456.35777777777776,TIDOC-2917,Titanium Mobile Platform,Mid,8865.0,Mid,False,0,0,False
+status,In  Review,2017-07-18 23:13:41,38396,in review,2017-08-15 21:18:00,670.0719444444444,TIDOC-2907,Titanium Mobile Platform,Mid,8865.0,Mid,False,1,0,False
+status,In  Review,2017-06-26 23:01:40,38397,in review,2017-07-06 18:15:42,235.23388888888888,TIDOC-2906,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,1,0,False
+status,In  Review,2017-06-06 14:19:53,38405,in review,2017-06-06 18:36:58,4.284722222222222,TIDOC-2898,Titanium Mobile Platform,Junior,8852.0,Junior,True,0,0,False
+status,In  Review,2017-05-24 19:00:31,38422,in review,2017-05-25 18:22:19,23.363333333333333,TIDOC-2880,Titanium Mobile Platform,Junior,8851.0,Junior,True,2,0,False
+status,In  Review,2017-05-22 17:08:40,38426,in review,2017-05-23 23:31:24,30.378888888888888,TIDOC-2875,Titanium Mobile Platform,Junior,8852.0,Junior,True,1,0,False
+status,In  Review,2017-05-11 23:04:51,38432,in review,2017-05-12 16:39:26,17.57638888888889,TIDOC-2868,Titanium Mobile Platform,Mid,8865.0,Mid,False,1,0,False
+status,In Review,2018-03-19 20:52:45,38446,in review,2018-11-29 18:21:21,6117.4766666666665,TIDOC-2853,Titanium Mobile Platform,Mid,8865.0,Mid,False,0,0,False
+status,In Review,2013-06-25 12:25:25,38467,in review,2013-06-30 01:39:36,109.23638888888888,TIDOC-2819,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,1,0,False
+status,In Review,2017-07-31 22:08:36,38477,in review,2017-08-15 22:07:33,359.9825,TIDOC-2808,Titanium Mobile Platform,Mid,8865.0,Mid,False,1,0,False
+status,In  Review,2017-04-07 20:03:32,38486,in review,2017-04-11 20:52:40,96.81888888888889,TIDOC-2798,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,3,0,False
+status,In  Review,2017-02-17 16:23:06,38523,in review,2017-02-24 17:58:53,169.5963888888889,TIDOC-2761,Titanium Mobile Platform,,8939.0,No tier (assumed rate),False,3,0,False
+status,In  Review,2017-02-20 16:52:15,38524,in review,2017-02-22 18:59:06,50.11416666666667,TIDOC-2760,Titanium Mobile Platform,,8939.0,No tier (assumed rate),False,4,0,False
+status,In  Review,2017-01-15 11:00:41,38552,in review,2017-03-20 19:19:42,1544.3169444444445,TIDOC-2729,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2016-12-19 22:55:18,38560,in review,2018-04-26 20:59:31,11830.070277777777,TIDOC-2720,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2016-11-30 22:21:01,38582,in review,2017-11-10 21:23:50,8279.046944444444,TIDOC-2695,Titanium Mobile Platform,Mid,8954.0,Mid,False,0,0,False
+status,In  Review,2017-02-09 21:24:07,38593,in review,2017-02-13 17:11:06,91.78305555555555,TIDOC-2681,Titanium Mobile Platform,,8948.0,No tier (assumed rate),False,2,0,False
+status,In Review,2019-05-23 15:56:15,38618,in review,2019-05-23 15:56:21,0.0016666666666666668,TIDOC-2656,Titanium Mobile Platform,Senior,8858.0,Senior,False,0,0,False
+status,In  Review,2016-08-17 22:57:11,38712,in review,2016-08-20 11:49:51,60.87777777777778,TIDOC-2557,Titanium Mobile Platform,Junior,8861.0,Junior,True,1,0,False
+status,In  Review,2016-07-30 11:32:57,38725,in review,2016-07-30 11:33:11,0.0038888888888888888,TIDOC-2541,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,0,0,False
+status,In  Review,2016-07-01 06:44:55,38732,in review,2016-07-26 10:51:10,604.1041666666666,TIDOC-2532,Titanium Mobile Platform,Junior,8861.0,Junior,True,3,0,False
+status,In  Review,2016-05-12 05:17:47,38743,in review,2016-05-17 17:01:01,131.72055555555556,TIDOC-2518,Titanium Mobile Platform,,8866.0,No tier (assumed rate),False,0,0,False
+status,In  Review,2016-10-01 13:50:10,38746,in review,2016-10-04 14:16:28,72.43833333333333,TIDOC-2514,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2016-05-02 19:33:12,38747,in review,2016-05-02 19:35:39,0.04083333333333333,TIDOC-2513,Titanium Mobile Platform,Junior,8850.0,Junior,True,0,0,False
+status,In Review,2017-07-27 22:21:58,38758,in review,2017-08-25 21:06:54,694.7488888888889,TIDOC-2501,Titanium Mobile Platform,Mid,8865.0,Mid,False,1,0,False
+status,In  Review,2016-04-05 21:36:06,38772,in review,2016-09-06 21:23:55,3695.7969444444443,TIDOC-2487,Titanium Mobile Platform,Mid-Senior,8876.0,Mid-Senior,False,2,0,False
+status,In Review,2018-10-05 15:30:54,38776,in review,2018-12-12 11:05:50,1627.5822222222223,TIDOC-2483,Titanium Mobile Platform,Junior,8868.0,Junior,True,1,0,False
+status,In  Review,2016-04-02 18:38:20,38778,in review,2016-05-26 07:59:52,1285.358888888889,TIDOC-2481,Titanium Mobile Platform,Junior,8861.0,Junior,True,1,0,False
+status,In  Review,2016-02-24 12:47:56,38801,in review,2016-02-24 18:21:45,5.563611111111111,TIDOC-2456,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2016-03-17 09:10:52,38803,in review,2016-03-21 08:07:12,94.93888888888888,TIDOC-2454,Titanium Mobile Platform,Junior,8986.0,Junior,True,0,0,False
+status,In  Review,2016-02-29 15:24:04,38821,in review,2016-02-29 15:42:13,0.3025,TIDOC-2435,Titanium Mobile Platform,Junior,8861.0,Junior,True,1,0,False
+status,In  Review,2016-01-15 21:18:45,38830,in review,2016-08-26 21:53:05,5376.572222222222,TIDOC-2425,Titanium Mobile Platform,Junior,8899.0,Junior,True,0,0,False
+status,In Review,2018-05-03 22:48:38,38836,in review,2018-11-29 18:43:09,5035.908611111111,TIDOC-2417,Titanium Mobile Platform,Mid,8865.0,Mid,False,0,0,False
+status,In  Review,2016-01-06 15:47:58,38838,in review,2016-01-06 15:48:04,0.0016666666666666668,TIDOC-2413,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In Review,2018-05-07 22:41:12,38842,in review,2018-11-29 18:42:32,4940.022222222222,TIDOC-2409,Titanium Mobile Platform,Mid,8865.0,Mid,False,0,0,False
+status,In  Review,2015-11-12 19:20:54,38877,in review,2015-11-12 19:22:23,0.024722222222222222,TIDOC-2366,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2015-11-02 21:45:20,38895,in review,2015-11-02 22:11:39,0.4386111111111111,TIDOC-2348,Titanium Mobile Platform,Junior,8861.0,Junior,True,1,0,False
+status,In  Review,2015-11-17 00:32:47,38897,in review,2015-11-17 00:35:40,0.04805555555555555,TIDOC-2346,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2015-11-03 19:58:32,38902,in review,2015-11-04 13:00:38,17.035,TIDOC-2340,Titanium Mobile Platform,Junior,8861.0,Junior,True,1,0,False
+status,In  Review,2015-08-01 15:55:18,38977,in review,2015-08-03 19:05:20,51.16722222222222,TIDOC-2263,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2015-07-30 00:39:38,38978,in review,2015-07-30 01:01:37,0.3663888888888889,TIDOC-2262,Titanium Mobile Platform,,8869.0,No tier (assumed rate),False,0,0,False
+status,In  Review,2015-08-17 22:42:28,38980,in review,2015-08-18 03:27:24,4.748888888888889,TIDOC-2259,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In  Review,2015-07-27 18:35:53,38998,in review,2015-09-17 20:54:17,1250.3066666666666,TIDOC-2241,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In  Review,2016-05-30 23:37:46,39007,in review,2016-05-31 01:30:35,1.8802777777777777,TIDOC-2229,Titanium Mobile Platform,Junior,8861.0,Junior,True,0,0,False
+status,In  Review,2017-02-22 18:32:22,39034,in review,2017-04-06 17:29:51,1030.9580555555556,TIDOC-2201,Titanium Mobile Platform,,8939.0,No tier (assumed rate),False,2,0,False
+status,In Review,2015-04-14 23:14:52,39071,in review,2015-04-22 17:38:36,186.39555555555555,TIDOC-2153,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-18 15:32:46,39088,in review,2015-03-02 23:36:02,296.05444444444447,TIDOC-2131,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-18 15:54:43,39092,in review,2015-02-18 19:26:14,3.5252777777777777,TIDOC-2127,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-17 21:30:24,39093,in review,2015-02-18 22:07:04,24.61111111111111,TIDOC-2126,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-25 22:32:22,39095,in review,2015-03-03 17:58:10,139.43,TIDOC-2123,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2015-02-18 21:11:48,39096,in review,2015-02-18 22:15:18,1.0583333333333333,TIDOC-2122,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-17 21:49:59,39097,in review,2015-02-18 21:13:24,23.39027777777778,TIDOC-2121,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-10 23:52:37,39099,in review,2015-02-11 23:17:56,23.421944444444446,TIDOC-2119,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-18 19:37:55,39102,in review,2015-02-18 21:01:49,1.3983333333333334,TIDOC-2115,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-04 15:17:57,39105,in review,2015-02-04 18:25:19,3.122777777777778,TIDOC-2112,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-03 22:51:00,39109,in review,2015-02-06 19:03:07,68.20194444444445,TIDOC-2107,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-03 13:38:38,39110,in review,2015-02-03 18:48:29,5.164166666666667,TIDOC-2105,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-01-30 15:28:53,39111,in review,2015-01-30 22:18:24,6.825277777777778,TIDOC-2104,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-06 14:15:18,39111,in review,2015-02-09 20:49:01,78.56194444444445,TIDOC-2104,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-04 22:04:23,39112,in review,2015-02-09 20:24:38,118.3375,TIDOC-2103,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-29 18:38:44,39113,in review,2015-01-30 16:51:23,22.210833333333333,TIDOC-2102,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-28 23:06:56,39114,in review,2015-01-30 17:10:44,42.06333333333333,TIDOC-2101,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-10 22:10:52,39120,in review,2015-02-16 16:12:02,138.01944444444445,TIDOC-2095,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2015-01-27 19:10:53,39124,in review,2015-01-30 16:22:52,69.19972222222222,TIDOC-2091,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-01-19 23:20:48,39129,in review,2015-01-20 15:19:21,15.975833333333334,TIDOC-2086,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-15 21:43:12,39131,in review,2015-01-19 13:40:06,87.94833333333334,TIDOC-2084,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-20 00:18:15,39135,in review,2015-02-25 14:44:25,134.4361111111111,TIDOC-2079,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2015-01-20 13:56:46,39136,in review,2015-02-06 18:37:39,412.6813888888889,TIDOC-2078,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-01-13 16:20:03,39137,in review,2015-01-13 18:01:23,1.6888888888888889,TIDOC-2077,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-12-17 22:40:55,39147,in review,2014-12-18 16:16:34,17.594166666666666,TIDOC-2067,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-22 22:34:56,39152,in review,2015-01-28 19:38:24,141.05777777777777,TIDOC-2061,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-30 16:11:16,39155,in review,2015-02-06 18:50:19,170.65083333333334,TIDOC-2058,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,1,True
+status,In Review,2015-02-06 18:08:50,39156,in review,2015-02-06 18:41:38,0.5466666666666666,TIDOC-2057,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-12-15 17:23:10,39157,in review,2014-12-17 18:17:56,48.91277777777778,TIDOC-2056,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-01-13 18:22:32,39160,in review,2015-01-14 18:11:16,23.81222222222222,TIDOC-2051,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-12-17 15:09:02,39172,in review,2014-12-19 22:16:38,55.126666666666665,TIDOC-2039,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-12-05 15:19:29,39179,in review,2014-12-05 18:15:53,2.94,TIDOC-2032,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-04-14 21:38:31,39182,in review,2015-04-22 17:38:23,187.99777777777777,TIDOC-2029,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-12-05 20:21:48,39191,in review,2014-12-05 21:15:18,0.8916666666666667,TIDOC-2019,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-24 00:25:47,39194,in review,2015-02-27 21:08:39,92.71444444444444,TIDOC-2016,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-11-26 19:31:50,39199,in review,2014-12-02 21:57:07,146.42138888888888,TIDOC-2011,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-11-24 18:36:30,39201,in review,2014-12-11 20:42:24,410.09833333333336,TIDOC-2009,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-11-24 22:06:02,39204,in review,2014-11-25 18:15:50,20.163333333333334,TIDOC-2005,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2015-01-15 01:52:47,39205,in review,2015-01-19 13:43:12,107.84027777777777,TIDOC-2004,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-22 17:07:38,39207,in review,2015-01-23 21:14:38,28.116666666666667,TIDOC-2002,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2015-01-14 15:39:45,39209,in review,2015-01-14 18:18:12,2.640833333333333,TIDOC-2000,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-24 19:12:10,39210,in review,2015-02-27 21:08:27,73.93805555555555,TIDOC-1999,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-12-04 16:08:04,39211,in review,2015-01-05 16:12:29,768.0736111111111,TIDOC-1998,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-18 00:25:21,39221,in review,2014-11-18 14:48:55,14.392777777777777,TIDOC-1987,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-11-14 21:29:04,39222,in review,2014-11-14 21:49:49,0.3458333333333333,TIDOC-1986,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-13 00:54:31,39228,in review,2014-11-13 20:51:22,19.9475,TIDOC-1980,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-12-18 04:01:54,39229,in review,2015-01-08 00:45:46,500.7311111111111,TIDOC-1979,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-13 21:46:10,39230,in review,2014-11-17 15:49:40,90.05833333333334,TIDOC-1978,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-11 15:13:59,39231,in review,2014-11-12 21:43:46,30.496388888888887,TIDOC-1977,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-19 16:39:21,39233,in review,2014-11-24 14:51:43,118.20611111111111,TIDOC-1975,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-11-06 23:02:07,39234,in review,2014-11-06 23:27:52,0.42916666666666664,TIDOC-1974,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-11-06 18:44:31,39235,in review,2014-11-07 22:59:22,28.2475,TIDOC-1972,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-11-06 01:25:53,39236,in review,2014-11-07 21:15:15,43.82277777777778,TIDOC-1971,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-11-05 23:43:32,39239,in review,2014-11-07 19:07:33,43.40027777777778,TIDOC-1968,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-11-10 17:58:22,39240,in review,2014-11-10 23:39:25,5.684166666666667,TIDOC-1967,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-04 23:18:43,39241,in review,2014-11-05 00:12:28,0.8958333333333334,TIDOC-1966,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-12 05:22:44,39244,in review,2014-11-12 21:19:11,15.940833333333334,TIDOC-1962,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-11-18 15:18:45,39249,in review,2014-11-24 17:56:15,146.625,TIDOC-1956,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-10-28 18:47:40,39251,in review,2014-10-28 21:50:36,3.048888888888889,TIDOC-1954,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-11-06 14:50:46,39259,in review,2014-11-14 14:06:02,191.25444444444443,TIDOC-1946,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-19 14:55:50,39262,in review,2015-02-19 18:09:19,3.2247222222222223,TIDOC-1943,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-19 15:03:33,39263,in review,2015-02-19 18:09:10,3.093611111111111,TIDOC-1942,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-01-20 19:27:11,39264,in review,2015-01-20 23:13:32,3.7725,TIDOC-1941,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-06 18:11:54,39270,in review,2015-01-06 18:31:17,0.32305555555555554,TIDOC-1935,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-09 16:18:05,39271,in review,2014-11-13 21:19:02,101.01583333333333,TIDOC-1934,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-10-22 17:39:28,39272,in review,2014-10-22 21:28:13,3.8125,TIDOC-1933,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-01-06 00:58:32,39274,in review,2015-01-06 17:05:56,16.123333333333335,TIDOC-1930,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-10-17 00:41:34,39280,in review,2014-10-17 02:01:59,1.3402777777777777,TIDOC-1924,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-13 16:09:41,39281,in review,2015-02-18 18:19:30,866.1636111111111,TIDOC-1923,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-11-11 15:59:57,39282,in review,2014-12-05 21:19:50,581.3313888888889,TIDOC-1922,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-10-21 18:59:52,39287,in review,2014-10-22 23:32:53,28.55027777777778,TIDOC-1916,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-10-21 23:43:03,39288,in review,2014-10-22 23:59:21,24.27166666666667,TIDOC-1915,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-28 14:56:28,39292,in review,2015-02-02 19:05:28,124.15,TIDOC-1911,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2015-02-03 20:41:38,39292,in review,2015-02-17 22:21:12,337.65944444444443,TIDOC-1911,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-10-09 15:08:39,39294,in review,2014-10-31 17:56:50,530.8030555555556,TIDOC-1909,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-10-23 17:42:58,39295,in review,2014-10-24 16:40:44,22.962777777777777,TIDOC-1908,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-06 14:50:45,39295,in review,2014-11-14 14:05:58,191.2536111111111,TIDOC-1908,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-10-21 15:50:26,39296,in review,2014-10-24 16:40:49,72.83972222222222,TIDOC-1907,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-06 14:50:45,39296,in review,2014-11-14 14:06:05,191.25555555555556,TIDOC-1907,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-30 15:37:43,39300,in review,2014-10-02 18:03:46,50.43416666666667,TIDOC-1903,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-05 02:00:52,39302,in review,2014-11-05 18:11:08,16.17111111111111,TIDOC-1901,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-10-27 22:55:52,39304,in review,2014-10-29 00:21:53,25.433611111111112,TIDOC-1899,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-10-20 22:44:08,39305,in review,2014-10-21 18:20:26,19.605,TIDOC-1898,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-10-02 23:30:52,39306,in review,2014-10-16 20:10:02,332.65277777777777,TIDOC-1897,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-10-03 23:55:20,39309,in review,2014-10-09 15:53:55,135.9763888888889,TIDOC-1894,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-10 20:55:54,39310,in review,2015-02-11 00:28:02,3.5355555555555553,TIDOC-1893,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-19 15:07:34,39312,in review,2015-05-06 12:18:45,4029.186388888889,TIDOC-1891,Titanium Mobile Platform,Senior,9008.0,Senior,False,6,0,False
+status,In Review,2014-09-22 19:44:00,39313,in review,2014-09-22 21:25:24,1.69,TIDOC-1890,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-10-02 02:05:06,39315,in review,2014-10-03 19:03:34,40.974444444444444,TIDOC-1888,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-06 20:29:44,39317,in review,2014-11-13 21:58:57,169.48694444444445,TIDOC-1885,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-25 01:04:21,39318,in review,2014-09-25 21:08:04,20.061944444444446,TIDOC-1884,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-11-05 15:19:17,39321,in review,2014-11-07 18:42:17,51.38333333333333,TIDOC-1881,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-16 18:25:42,39324,in review,2014-09-17 19:36:57,25.1875,TIDOC-1878,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-23 01:00:59,39326,in review,2014-09-23 21:26:09,20.419444444444444,TIDOC-1876,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-15 23:53:00,39328,in review,2014-09-16 00:50:58,0.9661111111111111,TIDOC-1874,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-10-02 18:52:30,39329,in review,2014-10-03 00:59:12,6.111666666666666,TIDOC-1873,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-12 17:40:23,39332,in review,2014-09-17 22:05:30,124.4186111111111,TIDOC-1870,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-08 06:03:37,39336,in review,2014-09-08 22:16:20,16.211944444444445,TIDOC-1866,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-15 13:34:05,39337,in review,2014-10-13 15:34:10,674.0013888888889,TIDOC-1864,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-04 21:12:50,39338,in review,2014-09-05 00:27:08,3.2383333333333333,TIDOC-1863,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-17 23:29:19,39339,in review,2014-09-19 00:34:13,25.081666666666667,TIDOC-1862,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-10-22 00:19:02,39342,in review,2014-10-23 00:04:25,23.75638888888889,TIDOC-1857,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-19 01:35:45,39346,in review,2014-09-30 01:30:48,263.9175,TIDOC-1853,Titanium Mobile Platform,Mid,9020.0,Mid,False,2,0,False
+status,In Review,2014-09-12 21:51:59,39347,in review,2014-09-13 01:53:06,4.018611111111111,TIDOC-1852,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-09 00:20:26,39349,in review,2014-09-09 22:01:56,21.691666666666666,TIDOC-1850,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-12-12 21:38:32,39350,in review,2014-12-15 18:18:08,68.66,TIDOC-1849,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-09-19 04:28:01,39352,in review,2014-09-24 22:15:06,137.78472222222223,TIDOC-1847,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-21 22:21:56,39355,in review,2014-08-23 00:26:05,26.069166666666668,TIDOC-1844,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-10 15:04:00,39356,in review,2014-09-10 18:15:48,3.1966666666666668,TIDOC-1843,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-16 21:42:35,39357,in review,2014-09-22 17:36:50,139.90416666666667,TIDOC-1842,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-05 00:01:07,39364,in review,2014-09-11 14:48:12,158.78472222222223,TIDOC-1835,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-08-21 22:52:07,39372,in review,2014-08-29 18:12:11,187.33444444444444,TIDOC-1827,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-08-19 21:12:21,39373,in review,2014-08-19 22:50:06,1.6291666666666667,TIDOC-1826,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-09 15:48:16,39375,in review,2014-09-17 22:03:15,198.24972222222223,TIDOC-1824,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-09 21:05:51,39376,in review,2014-09-09 21:20:15,0.24,TIDOC-1823,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-18 17:50:43,39379,in review,2014-10-11 01:03:30,535.2130555555556,TIDOC-1819,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-11 20:45:31,39380,in review,2014-08-11 20:47:56,0.04027777777777778,TIDOC-1818,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-08-19 21:18:30,39381,in review,2014-08-19 22:49:55,1.523611111111111,TIDOC-1816,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-08 22:46:01,39382,in review,2014-08-11 20:18:17,69.53777777777778,TIDOC-1815,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-09 00:22:00,39385,in review,2014-09-09 22:01:42,21.661666666666665,TIDOC-1812,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-12 19:00:30,39388,in review,2014-09-12 20:02:24,1.0316666666666667,TIDOC-1809,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-13 15:11:34,39389,in review,2014-08-15 16:06:45,48.91972222222222,TIDOC-1808,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-21 00:41:59,39390,in review,2014-08-29 18:10:47,209.48,TIDOC-1807,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-11 22:17:00,39391,in review,2014-08-13 23:12:03,48.9175,TIDOC-1806,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-06 21:07:41,39392,in review,2014-08-07 17:43:08,20.590833333333332,TIDOC-1805,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-08-28 01:01:27,39393,in review,2014-08-28 14:33:53,13.540555555555555,TIDOC-1804,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-07-31 23:37:58,39395,in review,2014-08-01 00:16:50,0.6477777777777778,TIDOC-1802,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-08 16:56:56,39396,in review,2014-09-12 19:33:16,98.60555555555555,TIDOC-1801,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-18 16:24:21,39402,in review,2014-08-26 19:48:59,195.41055555555556,TIDOC-1795,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-07 14:51:52,39404,in review,2014-08-07 19:46:10,4.905,TIDOC-1793,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-14 20:46:11,39405,in review,2014-08-14 22:13:23,1.4533333333333334,TIDOC-1791,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-25 17:58:38,39406,in review,2014-07-25 18:18:46,0.33555555555555555,TIDOC-1790,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-25 18:19:27,39407,in review,2014-07-25 21:12:19,2.881111111111111,TIDOC-1789,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-09-19 00:22:44,39410,in review,2014-09-23 22:07:24,117.74444444444444,TIDOC-1786,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-02-03 18:40:37,39411,in review,2015-02-04 14:38:08,19.95861111111111,TIDOC-1785,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-09 00:21:37,39412,in review,2014-09-09 22:02:10,21.675833333333333,TIDOC-1784,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-10 22:23:38,39414,in review,2014-09-11 11:21:03,12.956944444444444,TIDOC-1782,Titanium Mobile Platform,Mid,9020.0,Mid,False,2,0,False
+status,In Review,2014-09-12 17:41:02,39414,in review,2014-09-17 21:56:44,124.26166666666667,TIDOC-1782,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-23 22:37:21,39418,in review,2014-07-25 21:13:26,46.60138888888889,TIDOC-1778,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-07-23 14:50:21,39419,in review,2014-07-25 17:56:33,51.10333333333333,TIDOC-1777,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-07 21:51:55,39420,in review,2014-08-07 23:11:44,1.3302777777777777,TIDOC-1776,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-24 23:30:53,39421,in review,2014-07-25 18:05:52,18.583055555555557,TIDOC-1775,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-19 01:11:22,39422,in review,2014-08-19 18:06:19,16.91583333333333,TIDOC-1774,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-16 23:37:59,39424,in review,2014-07-16 23:43:41,0.095,TIDOC-1772,Titanium Mobile Platform,Junior-Mid,8867.0,Junior-Mid,True,1,0,False
+status,In Review,2014-07-16 21:48:54,39425,in review,2014-07-17 00:11:46,2.381111111111111,TIDOC-1771,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-16 23:50:20,39426,in review,2014-07-17 03:36:16,3.7655555555555558,TIDOC-1770,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-23 22:37:12,39427,in review,2014-07-25 21:14:05,46.61472222222222,TIDOC-1768,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-07-14 20:46:35,39428,in review,2014-07-14 21:09:28,0.3813888888888889,TIDOC-1767,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-07-30 18:49:19,39431,in review,2014-07-30 22:37:12,3.7980555555555555,TIDOC-1764,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-11 20:38:47,39432,in review,2014-09-17 21:43:29,145.07833333333335,TIDOC-1763,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-18 23:40:48,39436,in review,2014-07-21 23:47:06,72.105,TIDOC-1756,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-21 21:29:04,39437,in review,2014-07-22 15:12:40,17.726666666666667,TIDOC-1755,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-07-23 22:36:56,39438,in review,2014-07-25 21:14:31,46.62638888888889,TIDOC-1754,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-08-05 17:48:50,39440,in review,2014-08-05 22:47:27,4.976944444444444,TIDOC-1752,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-08-08 00:05:52,39443,in review,2015-05-06 12:18:45,6516.214722222222,TIDOC-1749,Titanium Mobile Platform,Senior,9008.0,Senior,False,2,0,False
+status,In Review,2014-08-07 21:06:16,39444,in review,2014-08-07 23:34:46,2.475,TIDOC-1748,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-09-10 18:40:40,39447,in review,2014-09-12 19:31:00,48.83888888888889,TIDOC-1745,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-07-16 22:16:37,39448,in review,2014-07-16 23:53:36,1.6163888888888889,TIDOC-1744,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-10 00:37:32,39449,in review,2014-07-10 21:06:29,20.4825,TIDOC-1743,Titanium Mobile Platform,Senior,9008.0,Senior,False,2,0,False
+status,In Review,2014-07-03 01:50:02,39450,in review,2014-07-07 20:37:59,114.79916666666666,TIDOC-1742,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-16 22:15:59,39453,in review,2014-07-16 23:53:29,1.625,TIDOC-1739,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-06-27 21:48:49,39457,in review,2014-07-03 17:30:20,139.69194444444443,TIDOC-1735,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-08-05 22:48:06,39459,in review,2014-08-05 22:48:14,0.0022222222222222222,TIDOC-1733,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-06-18 22:32:23,39460,in review,2014-06-19 19:29:08,20.945833333333333,TIDOC-1732,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-06-17 22:18:33,39461,in review,2014-06-17 22:54:46,0.6036111111111111,TIDOC-1731,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-08 21:23:38,39464,in review,2014-07-08 22:59:20,1.595,TIDOC-1728,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-06-11 19:37:12,39468,in review,2014-06-11 21:12:32,1.5888888888888888,TIDOC-1724,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-06-11 18:41:52,39469,in review,2014-06-11 20:48:08,2.1044444444444443,TIDOC-1723,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-06-06 19:10:36,39471,in review,2014-06-06 20:46:13,1.593611111111111,TIDOC-1721,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-17 03:34:44,39477,in review,2014-07-17 03:35:07,0.006388888888888889,TIDOC-1715,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-16 17:52:51,39478,in review,2014-07-16 23:53:15,6.006666666666667,TIDOC-1714,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-16 22:15:12,39481,in review,2014-07-16 23:53:21,1.6358333333333333,TIDOC-1711,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-10 17:18:45,39482,in review,2014-07-17 00:10:07,150.85611111111112,TIDOC-1710,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-09-17 16:41:19,39483,in review,2014-09-17 21:59:26,5.301944444444445,TIDOC-1709,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-06-03 22:22:10,39485,in review,2014-06-10 18:51:39,164.49138888888888,TIDOC-1707,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-08 17:09:17,39491,in review,2014-07-08 18:44:12,1.5819444444444444,TIDOC-1700,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-02 22:51:06,39492,in review,2014-07-15 19:45:45,308.91083333333336,TIDOC-1699,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2013-04-23 03:47:43,39496,in review,2013-04-23 21:55:26,18.128611111111113,TIDOC-1695,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-05-28 21:42:21,39496,in review,2014-05-28 22:44:07,1.0294444444444444,TIDOC-1695,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-11 22:46:08,39498,in review,2014-07-12 21:23:22,22.620555555555555,TIDOC-1693,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-05-28 21:42:36,39503,in review,2014-05-28 22:44:58,1.0394444444444444,TIDOC-1688,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-06-03 00:35:34,39505,in review,2014-06-03 20:08:22,19.546666666666667,TIDOC-1686,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-05-21 01:31:01,39506,in review,2014-05-21 18:28:16,16.954166666666666,TIDOC-1685,Titanium Mobile Platform,Mid,9020.0,Mid,False,2,2,True
+status,In Review,2014-05-16 20:07:57,39515,in review,2014-05-20 21:04:34,96.94361111111111,TIDOC-1676,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-06-12 21:49:15,39516,in review,2014-06-13 18:48:29,20.987222222222222,TIDOC-1675,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-07-10 01:22:35,39517,in review,2014-07-10 18:19:29,16.948333333333334,TIDOC-1674,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-06-11 18:26:21,39524,in review,2014-07-14 02:42:22,776.2669444444444,TIDOC-1667,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-06-18 23:32:38,39526,in review,2014-06-20 00:45:54,25.22111111111111,TIDOC-1665,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-05-22 09:44:24,39528,in review,2014-08-08 18:15:31,1880.518611111111,TIDOC-1663,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-05-06 18:32:01,39533,in review,2014-05-07 06:53:29,12.357777777777779,TIDOC-1656,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-30 16:50:17,39538,in review,2014-07-30 20:46:23,3.935,TIDOC-1651,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-05-21 00:04:00,39540,in review,2014-05-21 01:08:06,1.0683333333333334,TIDOC-1648,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-06-27 20:43:54,39541,in review,2014-07-07 18:12:37,237.47861111111112,TIDOC-1647,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-05-06 22:44:33,39546,in review,2014-05-07 06:53:43,8.152777777777779,TIDOC-1642,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-04-28 23:53:05,39549,in review,2014-05-23 23:33:59,599.6816666666666,TIDOC-1639,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-23 23:34:38,39552,in review,2014-07-24 15:24:03,15.823611111111111,TIDOC-1636,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-22 18:39:20,39553,in review,2014-04-22 19:43:56,1.0766666666666667,TIDOC-1634,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-04-22 00:11:02,39556,in review,2014-04-23 00:11:32,24.008333333333333,TIDOC-1631,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-17 01:45:04,39558,in review,2014-04-17 21:22:13,19.61916666666667,TIDOC-1629,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-04-22 19:00:32,39561,in review,2014-04-22 19:44:51,0.7386111111111111,TIDOC-1626,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-04-22 18:53:40,39562,in review,2014-04-25 19:12:27,72.31305555555555,TIDOC-1625,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-04-14 23:00:12,39564,in review,2014-04-17 21:21:45,70.35916666666667,TIDOC-1623,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-22 23:28:05,39566,in review,2014-04-22 23:35:26,0.1225,TIDOC-1620,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-04-15 20:02:08,39567,in review,2014-04-17 21:22:01,49.33138888888889,TIDOC-1619,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-25 18:35:09,39568,in review,2014-05-05 22:01:21,243.43666666666667,TIDOC-1618,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-10 18:36:38,39571,in review,2014-11-11 18:29:49,23.886388888888888,TIDOC-1615,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-09 00:35:50,39573,in review,2014-09-09 21:38:01,21.03638888888889,TIDOC-1613,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-05-06 00:47:05,39574,in review,2014-07-29 16:30:43,2031.7272222222223,TIDOC-1612,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-06-27 22:25:07,39576,in review,2014-07-01 18:38:16,92.21916666666667,TIDOC-1608,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-08 01:50:38,39578,in review,2014-04-22 16:54:46,351.06888888888886,TIDOC-1606,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-04-21 19:51:41,39580,in review,2014-04-22 19:12:45,23.351111111111113,TIDOC-1604,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-22 20:29:45,39587,in review,2014-04-22 20:44:33,0.24666666666666667,TIDOC-1597,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-04-21 21:57:35,39590,in review,2014-04-22 18:35:53,20.638333333333332,TIDOC-1594,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-18 21:02:09,39591,in review,2014-04-25 23:13:21,170.18666666666667,TIDOC-1593,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-04-22 22:30:06,39597,in review,2014-04-22 23:01:11,0.5180555555555556,TIDOC-1587,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-05-01 01:51:12,39599,in review,2014-07-17 02:48:42,1848.9583333333333,TIDOC-1585,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-05-14 19:47:39,39600,in review,2014-05-14 21:05:55,1.3044444444444445,TIDOC-1584,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-07 20:42:27,39602,in review,2014-03-08 00:13:54,3.5241666666666664,TIDOC-1582,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-03-06 22:15:08,39603,in review,2014-03-13 17:22:06,163.1161111111111,TIDOC-1581,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-09 01:01:00,39603,in review,2014-04-10 00:51:02,23.83388888888889,TIDOC-1581,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-03-04 23:22:20,39607,in review,2014-03-06 08:41:41,33.3225,TIDOC-1577,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-04-07 22:56:49,39608,in review,2014-04-08 20:52:24,21.926388888888887,TIDOC-1576,Titanium Mobile Platform,Senior,9008.0,Senior,False,2,0,False
+status,In Review,2014-02-25 21:17:51,39615,in review,2014-02-25 23:08:39,1.8466666666666667,TIDOC-1567,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-02-26 19:49:11,39616,in review,2014-09-11 10:48:09,4718.982777777778,TIDOC-1566,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-09-11 19:09:19,39616,in review,2014-09-17 21:58:55,146.82666666666665,TIDOC-1566,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39618,in review,2014-10-27 17:38:38,5106.5475,TIDOC-1564,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39619,in review,2014-10-27 17:38:38,5106.5475,TIDOC-1563,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39620,in review,2014-10-27 17:38:38,5106.5475,TIDOC-1562,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:48,39621,in review,2014-10-27 17:38:39,5106.5475,TIDOC-1561,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39622,in review,2014-10-27 17:38:39,5106.547777777778,TIDOC-1560,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39623,in review,2014-10-27 17:38:38,5106.5475,TIDOC-1559,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39624,in review,2014-10-27 17:38:38,5106.5475,TIDOC-1558,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:48,39625,in review,2014-10-27 17:38:38,5106.547222222222,TIDOC-1557,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39626,in review,2014-10-27 17:38:39,5106.547777777778,TIDOC-1556,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:48,39627,in review,2014-10-27 17:38:39,5106.5475,TIDOC-1555,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39628,in review,2014-10-27 17:38:39,5106.547777777778,TIDOC-1554,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39629,in review,2014-10-27 17:38:38,5106.5475,TIDOC-1553,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:48,39630,in review,2014-10-27 17:38:39,5106.5475,TIDOC-1552,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:47,39631,in review,2014-10-27 17:38:39,5106.547777777778,TIDOC-1551,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-28 23:05:48,39632,in review,2014-10-27 17:38:39,5106.5475,TIDOC-1550,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-04-21 19:54:35,39645,in review,2014-04-22 19:11:15,23.27777777777778,TIDOC-1537,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-30 21:25:25,39646,in review,2014-10-02 17:57:46,44.53916666666667,TIDOC-1536,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-02-10 20:09:23,39654,in review,2014-02-10 21:53:09,1.7294444444444443,TIDOC-1528,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-30 15:31:14,39656,in review,2014-10-02 18:04:11,50.549166666666665,TIDOC-1525,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-06 22:26:06,39657,in review,2014-08-07 17:42:08,19.267222222222223,TIDOC-1524,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-02-27 22:31:53,39661,in review,2014-07-07 18:58:45,3116.447777777778,TIDOC-1520,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-02-20 01:05:54,39662,in review,2014-02-21 19:33:48,42.465,TIDOC-1519,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-10-21 17:16:29,39663,in review,2014-10-21 18:19:38,1.0525,TIDOC-1518,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-02-06 00:00:59,39664,in review,2014-03-12 22:39:42,838.6452777777778,TIDOC-1517,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,1,True
+status,In Review,2014-02-20 21:58:49,39665,in review,2014-02-24 17:44:36,91.76305555555555,TIDOC-1516,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-11-17 21:33:05,39666,in review,2014-11-18 13:48:17,16.253333333333334,TIDOC-1515,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-02-20 01:32:08,39667,in review,2014-02-27 17:43:27,184.1886111111111,TIDOC-1514,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-01-31 23:07:58,39674,in review,2014-02-04 21:52:08,94.73611111111111,TIDOC-1507,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-01-30 23:57:42,39677,in review,2014-02-03 18:29:04,90.52277777777778,TIDOC-1504,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-01-24 23:55:41,39684,in review,2014-01-25 00:35:37,0.6655555555555556,TIDOC-1496,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-01-24 19:34:22,39686,in review,2014-01-24 22:59:32,3.4194444444444443,TIDOC-1494,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-03-20 17:00:05,39693,in review,2014-10-27 17:39:58,5304.664722222222,TIDOC-1486,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-05-20 00:24:03,39694,in review,2014-05-20 00:47:22,0.38861111111111113,TIDOC-1485,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-02-25 01:48:51,39696,in review,2014-02-25 15:09:43,13.347777777777777,TIDOC-1483,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-02-21 21:42:17,39713,in review,2014-02-24 18:25:31,68.72055555555555,TIDOC-1465,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-02-13 01:01:23,39715,in review,2014-02-13 01:28:46,0.4563888888888889,TIDOC-1463,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-01-16 19:13:22,39723,in review,2014-01-22 03:03:38,127.83777777777777,TIDOC-1454,Titanium Mobile Platform,Mid,9020.0,Mid,False,2,0,False
+status,In Review,2014-01-11 01:03:48,39725,in review,2014-01-13 14:09:34,61.096111111111114,TIDOC-1452,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-04-16 23:05:19,39727,in review,2014-04-17 18:18:44,19.22361111111111,TIDOC-1450,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-01-22 22:18:19,39731,in review,2014-01-23 22:03:47,23.75777777777778,TIDOC-1440,Titanium Mobile Platform,Senior,9008.0,Senior,False,2,0,False
+status,In Review,2014-01-09 20:35:34,39743,in review,2014-01-15 16:23:42,139.8022222222222,TIDOC-1428,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-04-16 01:00:21,39744,in review,2014-04-17 18:19:07,41.312777777777775,TIDOC-1427,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-12-30 19:38:02,39745,in review,2014-01-08 01:09:31,197.5247222222222,TIDOC-1426,Titanium Mobile Platform,Mid,9020.0,Mid,False,2,0,False
+status,In Review,2014-02-25 18:52:47,39748,in review,2014-03-06 09:25:59,206.55333333333334,TIDOC-1423,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-03-04 21:30:29,39750,in review,2014-03-06 08:42:01,35.19222222222222,TIDOC-1421,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2013-12-29 23:41:25,39751,in review,2013-12-30 19:08:45,19.455555555555556,TIDOC-1420,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2013-12-16 21:26:50,39754,in review,2013-12-18 23:45:54,50.31777777777778,TIDOC-1417,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-01-23 23:26:24,39755,in review,2014-02-26 00:43:21,793.2825,TIDOC-1416,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-02-26 00:45:27,39755,in review,2014-05-05 23:03:44,1654.3047222222222,TIDOC-1416,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-01-08 21:02:51,39756,in review,2014-01-17 08:56:09,203.88833333333332,TIDOC-1415,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2014-01-14 00:46:07,39758,in review,2014-01-22 18:22:46,209.61083333333335,TIDOC-1413,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-23 22:20:07,39764,in review,2014-04-25 21:44:40,47.409166666666664,TIDOC-1404,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-12-03 22:11:07,39772,in review,2013-12-04 18:27:55,20.28,TIDOC-1395,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-03-25 18:32:13,39790,in review,2014-03-25 20:52:55,2.345,TIDOC-1369,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-12-11 00:36:48,39792,in review,2014-04-24 18:21:28,3233.7444444444445,TIDOC-1367,Titanium Mobile Platform,Senior,9008.0,Senior,False,2,0,False
+status,In Review,2013-11-12 23:39:03,39796,in review,2013-11-14 02:16:35,26.625555555555554,TIDOC-1363,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-11-26 00:16:13,39806,in review,2013-11-26 01:18:21,1.0355555555555556,TIDOC-1352,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-02-12 23:49:20,39807,in review,2014-02-25 19:10:34,307.3538888888889,TIDOC-1351,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-12-09 19:34:10,39809,in review,2014-02-13 19:19:46,1583.76,TIDOC-1349,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-11-13 23:07:54,39811,in review,2013-11-21 18:37:01,187.48527777777778,TIDOC-1346,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,0,False
+status,In Review,2013-11-12 23:23:34,39825,in review,2013-11-15 22:07:39,70.73472222222222,TIDOC-1328,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-10-25 18:26:11,39827,in review,2013-10-31 17:50:57,143.4127777777778,TIDOC-1326,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-11-13 17:16:49,39828,in review,2013-11-14 00:36:06,7.3213888888888885,TIDOC-1325,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-10-18 00:56:33,39836,in review,2013-10-18 01:06:00,0.1575,TIDOC-1317,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-10-30 18:00:40,39838,in review,2013-10-31 17:51:28,23.846666666666668,TIDOC-1315,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-11-11 21:27:53,39839,in review,2013-11-12 18:30:12,21.038611111111113,TIDOC-1314,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-10-30 18:00:30,39840,in review,2013-10-31 17:51:13,23.845277777777778,TIDOC-1313,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-01-14 23:44:59,39842,in review,2014-02-03 18:27:19,474.7055555555556,TIDOC-1311,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-10-22 18:55:52,39844,in review,2013-11-01 17:03:40,238.13,TIDOC-1307,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-10-17 00:48:04,39845,in review,2013-10-17 23:21:07,22.550833333333333,TIDOC-1306,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-10-21 18:30:49,39847,in review,2013-10-23 18:35:06,48.07138888888889,TIDOC-1302,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-07-30 04:01:45,39848,in review,2014-07-30 21:48:12,17.774166666666666,TIDOC-1300,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-10-17 21:06:22,39850,in review,2013-10-17 23:22:59,2.2769444444444447,TIDOC-1292,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-10-18 23:13:23,39851,in review,2013-10-25 22:04:17,166.84833333333333,TIDOC-1291,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-10-18 00:34:15,39855,in review,2013-10-18 00:41:58,0.12861111111111112,TIDOC-1285,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-08-06 23:02:14,39856,in review,2014-08-19 17:40:19,306.6347222222222,TIDOC-1284,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-09-23 23:22:06,39865,in review,2013-09-26 18:56:40,67.57611111111112,TIDOC-1274,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-09-24 21:31:52,39867,in review,2013-10-04 17:40:55,236.15083333333334,TIDOC-1272,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-09-24 21:07:01,39876,in review,2013-09-26 21:10:18,48.054722222222225,TIDOC-1260,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-09-23 23:41:32,39903,in review,2013-09-26 21:10:42,69.48611111111111,TIDOC-1231,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-08-13 22:08:07,39905,in review,2013-08-13 23:13:44,1.093611111111111,TIDOC-1229,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-08-09 00:22:14,39906,in review,2013-08-09 00:31:53,0.16083333333333333,TIDOC-1228,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-08-21 00:42:37,39907,in review,2014-08-29 18:11:19,209.47833333333332,TIDOC-1227,Titanium Mobile Platform,Mid,9020.0,Mid,False,1,1,True
+status,In Review,2014-12-09 19:04:25,39910,in review,2014-12-17 18:07:06,191.04472222222222,TIDOC-1221,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-08-01 17:19:07,39912,in review,2013-08-01 19:40:30,2.356388888888889,TIDOC-1219,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2013-08-06 00:52:26,39913,in review,2013-08-21 19:22:50,378.50666666666666,TIDOC-1218,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-07-29 23:20:30,39920,in review,2013-07-30 21:31:25,22.181944444444444,TIDOC-1210,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-08-05 18:48:34,39923,in review,2013-08-05 21:24:50,2.6044444444444443,TIDOC-1207,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-07-24 19:36:37,39924,in review,2013-07-30 00:29:14,124.87694444444445,TIDOC-1206,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-08-08 00:07:07,39927,in review,2013-08-08 22:11:32,22.073611111111113,TIDOC-1201,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-07-16 19:27:25,39932,in review,2013-07-18 19:01:37,47.57,TIDOC-1196,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-08-09 01:37:55,39933,in review,2013-08-09 22:11:33,20.560555555555556,TIDOC-1195,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-07-15 22:30:09,39936,in review,2013-07-22 21:46:45,167.27666666666667,TIDOC-1192,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-07-02 19:44:34,39939,in review,2013-07-03 00:08:27,4.398055555555556,TIDOC-1189,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-02-04 20:00:48,39940,in review,2014-02-04 22:11:38,2.1805555555555554,TIDOC-1188,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2013-08-08 00:09:42,39944,in review,2013-08-26 19:24:06,451.24,TIDOC-1184,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-10-17 00:47:54,39947,in review,2013-10-17 00:56:56,0.15055555555555555,TIDOC-1181,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-06-19 23:14:21,39948,in review,2015-05-06 12:18:45,16453.073333333334,TIDOC-1180,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-06-10 19:15:00,39954,in review,2013-06-14 19:35:44,96.34555555555555,TIDOC-1174,Titanium Mobile Platform,Senior,9008.0,Senior,False,3,0,False
+status,In Review,2013-06-03 19:03:42,39957,in review,2013-06-04 18:22:24,23.311666666666667,TIDOC-1171,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2013-06-11 00:41:53,39964,in review,2013-07-30 20:09:47,1195.465,TIDOC-1163,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-06-05 01:20:00,39976,in review,2014-06-05 18:14:29,16.908055555555556,TIDOC-1149,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-04-29 23:19:31,39990,in review,2013-05-20 19:26:16,500.1125,TIDOC-1133,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-04-27 00:12:44,39995,in review,2013-05-20 19:25:36,571.2144444444444,TIDOC-1127,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-04-27 00:12:12,40001,in review,2013-05-13 23:33:07,407.3486111111111,TIDOC-1121,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-07-15 22:08:09,40004,in review,2013-07-16 15:26:04,17.29861111111111,TIDOC-1117,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2013-07-24 20:29:18,40004,in review,2013-07-24 20:54:55,0.42694444444444446,TIDOC-1117,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-04-03 22:27:36,40017,in review,2013-04-05 01:35:36,27.133333333333333,TIDOC-1104,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-09-24 21:31:04,40022,in review,2013-09-27 18:41:16,69.17,TIDOC-1097,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-09-17 18:22:07,40031,in review,2013-09-17 21:19:05,2.9494444444444445,TIDOC-1088,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-03-26 22:50:41,40035,in review,2013-04-08 18:50:19,307.9938888888889,TIDOC-1084,Titanium Mobile Platform,Senior,9008.0,Senior,False,3,0,False
+status,In Review,2014-10-06 18:28:17,40043,in review,2014-10-10 18:29:45,96.02444444444444,TIDOC-1076,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-04-11 18:29:02,40050,in review,2013-04-20 02:20:26,199.85666666666665,TIDOC-1069,Titanium Mobile Platform,,9029.0,No tier (assumed rate),False,0,0,False
+status,In Review,2013-04-11 18:28:05,40051,in review,2013-04-20 02:19:36,199.85861111111112,TIDOC-1068,Titanium Mobile Platform,,9029.0,No tier (assumed rate),False,0,0,False
+status,In Review,2015-02-22 17:39:00,40065,in review,2015-02-23 20:29:05,26.834722222222222,TIDOC-1052,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2013-01-29 01:25:32,40123,in review,2013-02-11 18:20:04,328.9088888888889,TIDOC-990,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-01-03 15:53:34,40228,in review,2013-01-03 15:53:54,0.005555555555555556,TIDOC-877,Titanium Mobile Platform,Senior,9008.0,Senior,False,1,0,False
+status,In Review,2014-04-14 23:22:51,40245,in review,2014-04-14 23:36:49,0.23277777777777778,TIDOC-860,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2013-01-26 02:07:49,40248,in review,2013-01-28 22:20:42,68.21472222222222,TIDOC-857,Titanium Mobile Platform,Junior-Mid,8966.0,Junior-Mid,True,0,0,False
+status,In Review,2013-09-24 22:28:33,40272,in review,2013-09-26 20:33:02,46.07472222222222,TIDOC-831,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-11-05 20:44:42,40418,in review,2014-11-05 23:48:27,3.0625,TIDOC-671,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,In Review,2014-03-11 00:27:49,40440,in review,2014-03-17 18:00:38,161.54694444444445,TIDOC-649,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2015-01-15 21:31:27,40470,in review,2015-01-16 15:06:58,17.591944444444444,TIDOC-618,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-04-18 21:54:51,40520,in review,2014-04-23 18:26:38,116.52972222222222,TIDOC-567,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-09-22 19:08:20,40627,in review,2014-09-25 18:45:04,71.61222222222223,TIDOC-454,Titanium Mobile Platform,Senior,9008.0,Senior,False,0,0,False
+status,In Review,2014-08-11 17:20:56,40799,in review,2014-08-11 18:57:00,1.6011111111111112,TIDOC-266,Titanium Mobile Platform,Mid,9020.0,Mid,False,0,0,False
+status,Code Review,2018-04-05 17:50:25,384801,code review,2018-04-09 22:45:19,100.915,MULE-14850,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2018-04-10 20:51:45,384830,code review,2018-04-10 20:52:08,0.006388888888888889,MULE-14809,Mule,Senior,163672.0,Senior,False,0,0,False
+status,Code Review,2018-03-05 20:34:23,384923,code review,2018-03-06 18:22:58,21.809722222222224,MULE-14669,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2018-02-23 14:08:13,384951,code review,2018-02-23 14:08:16,0.0008333333333333334,MULE-14623,Mule,Mid,163686.0,Mid,False,0,0,False
+status,Code Review,2018-01-17 14:12:53,385068,code review,2018-01-17 14:12:59,0.0016666666666666668,MULE-14462,Mule,Mid,163686.0,Mid,False,0,0,False
+status,Code Review,2018-01-17 14:14:05,385068,code review,2018-01-17 14:14:18,0.003611111111111111,MULE-14462,Mule,Mid,163686.0,Mid,False,0,0,False
+status,Code Review,2018-01-13 23:51:19,385085,code review,2018-01-15 19:34:22,43.7175,MULE-14441,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2018-01-09 16:45:54,385113,code review,2018-01-16 16:54:44,168.1472222222222,MULE-14408,Mule,Mid,163686.0,Mid,False,0,0,False
+status,Code Review,2018-01-02 20:48:09,385159,code review,2018-01-03 13:18:00,16.4975,MULE-14358,Mule,,163724.0,No tier (assumed rate),False,0,0,False
+status,Code Review,2018-01-04 13:31:45,385159,code review,2018-01-04 13:31:52,0.0019444444444444444,MULE-14358,Mule,,163724.0,No tier (assumed rate),False,0,0,False
+status,Code Review,2018-01-02 18:27:29,385161,code review,2018-01-02 21:14:37,2.7855555555555553,MULE-14356,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-12-11 17:56:30,385302,code review,2017-12-11 17:57:18,0.013333333333333334,MULE-14192,Mule,Senior,163672.0,Senior,False,0,0,False
+status,Code Review,2017-12-11 20:59:58,385344,code review,2017-12-11 21:00:03,0.001388888888888889,MULE-14133,Mule,Junior,163666.0,Junior,True,0,0,False
+status,Code Review,2017-05-23 22:08:22,385399,code review,2017-07-19 19:57:09,1365.8130555555556,MULE-14059,Mule,Mid-Senior,163670.0,Mid-Senior,False,0,0,False
+status,Code Review,2017-11-06 14:24:32,385474,code review,2017-11-06 14:24:59,0.0075,MULE-13963,Mule,Junior-Mid,163691.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-11-03 19:39:00,385483,code review,2017-11-03 19:39:04,0.0011111111111111111,MULE-13949,Mule,Mid-Senior,163665.0,Mid-Senior,False,0,0,False
+status,Code Review,2017-11-01 23:56:49,385489,code review,2017-11-13 12:39:01,276.7033333333333,MULE-13938,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-10-31 22:18:52,385509,code review,2017-11-13 12:38:38,302.32944444444445,MULE-13918,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-10-24 22:23:53,385542,code review,2017-10-25 03:20:01,4.935555555555555,MULE-13870,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-11-07 20:56:25,385647,code review,2017-11-15 16:00:56,187.07527777777779,MULE-13732,Mule,Junior-Mid,163691.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-10-05 05:07:31,385679,code review,2017-10-05 05:07:39,0.0022222222222222222,MULE-13694,Mule,,163744.0,No tier (assumed rate),False,0,0,False
+status,Code Review,2017-09-22 22:13:39,385750,code review,2017-09-22 22:13:45,0.0016666666666666668,MULE-13602,Mule,,163744.0,No tier (assumed rate),False,0,0,False
+status,Code Review,2017-09-22 14:15:29,385766,code review,2017-09-22 14:15:34,0.001388888888888889,MULE-13582,Mule,Mid,163686.0,Mid,False,0,0,False
+status,Code Review,2017-08-23 22:34:48,385923,code review,2017-09-01 21:03:15,214.47416666666666,MULE-13378,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-08-23 22:27:01,385927,code review,2017-09-21 16:21:47,689.9127777777778,MULE-13373,Mule,Junior-Mid,163679.0,Junior-Mid,True,1,1,True
+status,Code Review,2017-08-08 17:56:17,386002,code review,2017-08-08 17:56:30,0.003611111111111111,MULE-13279,Mule,Junior-Mid,163679.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-07-17 14:53:43,386149,code review,2017-07-17 14:53:49,0.0016666666666666668,MULE-13091,Mule,Junior,163666.0,Junior,True,0,0,False
+status,Code Review,2017-07-11 21:30:16,386196,code review,2017-10-04 19:07:15,2037.6163888888889,MULE-13038,Mule,Senior,163727.0,Senior,False,0,0,False
+status,Code Review,2017-07-05 14:35:55,386252,code review,2017-07-05 14:36:03,0.0022222222222222222,MULE-12973,Mule,Mid,163686.0,Mid,False,0,0,False
+status,To Be Reviewed,2017-06-02 14:57:34,386276,to be reviewed,2017-06-09 03:32:14,156.57777777777778,MULE-12945,Mule,Junior-Mid,163662.0,Junior-Mid,True,0,0,False
+status,Code Review,2017-08-07 15:59:07,386780,code review,2017-08-07 15:59:12,0.001388888888888889,MULE-12266,Mule,Mid,163686.0,Mid,False,0,0,False
+status,Code Review,2017-07-07 15:04:49,387204,code review,2017-07-07 15:04:53,0.0011111111111111111,MULE-11748,Mule,Senior,163693.0,Senior,False,0,0,False
+status,Code Review,2017-09-11 19:50:51,387879,code review,2017-09-11 19:51:04,0.003611111111111111,MULE-10960,Mule,Senior,163672.0,Senior,False,0,0,False
+status,To Be Reviewed,2013-07-23 02:25:54,390639,to be reviewed,2014-02-28 02:35:30,5280.16,MULE-7415,Mule,,,No tier (assumed rate),False,0,0,False
+status,In Review,2020-04-16 21:17:30,396613,in review,2020-04-20 19:09:05,93.85972222222222,TISTUD-9215,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2020-03-26 14:57:57,396616,in review,2020-04-22 17:40:54,650.7158333333333,TISTUD-9212,Appcelerator Studio,,165170.0,No tier (assumed rate),False,3,2,True
+status,In Review,2020-02-11 16:08:20,396623,in review,2020-03-02 15:37:52,479.4922222222222,TISTUD-9204,Appcelerator Studio,Senior,165168.0,Senior,False,2,0,False
+status,In Review,2019-11-21 19:02:48,396624,in review,2019-11-22 22:06:53,27.068055555555556,TISTUD-9203,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2019-11-15 18:50:38,396626,in review,2020-03-02 15:34:49,2588.736388888889,TISTUD-9200,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2019-11-14 16:03:04,396627,in review,2019-11-14 18:31:51,2.479722222222222,TISTUD-9199,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2019-09-04 21:01:45,396631,in review,2019-09-06 19:07:28,46.09527777777778,TISTUD-9195,Appcelerator Studio,,165169.0,No tier (assumed rate),False,2,0,False
+status,In Review,2019-08-26 18:08:56,396633,in review,2019-09-06 18:54:17,264.7558333333333,TISTUD-9193,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2019-08-29 15:44:49,396635,in review,2019-09-05 17:02:25,169.29333333333332,TISTUD-9191,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2019-07-11 19:57:18,396642,in review,2019-07-11 22:57:44,3.007222222222222,TISTUD-9183,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2019-06-17 17:57:05,396646,in review,2019-07-02 20:07:39,362.1761111111111,TISTUD-9178,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2019-06-17 19:03:46,396647,in review,2019-07-02 20:07:46,361.06666666666666,TISTUD-9177,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2019-06-17 17:56:39,396650,in review,2019-07-02 20:08:42,362.2008333333333,TISTUD-9174,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2020-04-09 16:42:41,396651,in review,2020-04-14 20:41:32,123.98083333333334,TISTUD-9173,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2019-05-13 19:11:24,396652,in review,2019-05-14 17:55:31,22.735277777777778,TISTUD-9171,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2019-05-13 21:37:46,396653,in review,2019-05-17 23:37:12,97.99055555555556,TISTUD-9170,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2019-05-07 15:30:09,396657,in review,2019-05-10 15:44:04,72.23194444444445,TISTUD-9166,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2019-03-06 17:19:26,396660,in review,2019-03-11 17:51:52,120.54055555555556,TISTUD-9162,Appcelerator Studio,,165169.0,No tier (assumed rate),False,0,0,False
+status,In Review,2019-05-07 15:27:59,396661,in review,2019-05-16 22:35:03,223.11777777777777,TISTUD-9161,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2018-12-05 21:16:09,396663,in review,2019-03-05 20:11:37,2158.9244444444444,TISTUD-9159,Appcelerator Studio,Senior,165168.0,Senior,False,2,0,False
+status,In Review,2020-03-04 15:08:09,396667,in review,2020-03-11 21:54:18,174.76916666666668,TISTUD-9155,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2018-11-14 06:40:33,396675,in review,2018-11-14 11:15:30,4.5825,TISTUD-9145,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-09-12 23:29:26,396677,in review,2018-10-16 10:09:29,802.6675,TISTUD-9142,Appcelerator Studio,,165198.0,No tier (assumed rate),False,2,1,True
+status,In Review,2018-10-16 08:06:50,396679,in review,2018-10-18 09:41:44,49.58166666666666,TISTUD-9140,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-10-11 05:08:06,396681,in review,2018-10-11 18:23:10,13.251111111111111,TISTUD-9138,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-10-11 06:08:09,396682,in review,2018-10-31 08:59:10,482.85027777777776,TISTUD-9137,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-09-24 05:26:29,396688,in review,2018-09-24 11:11:49,5.7555555555555555,TISTUD-9126,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-09-12 07:55:55,396689,in review,2018-09-18 05:08:29,141.20944444444444,TISTUD-9125,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-09-10 08:00:04,396691,in review,2018-09-17 05:06:14,165.1027777777778,TISTUD-9121,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-09-25 10:48:32,396693,in review,2018-10-04 10:13:28,215.41555555555556,TISTUD-9119,Appcelerator Studio,,165169.0,No tier (assumed rate),False,5,4,True
+status,In Review,2018-09-04 08:23:09,396694,in review,2018-10-04 12:15:11,723.8672222222223,TISTUD-9118,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-08-30 07:13:12,396696,in review,2018-09-05 07:24:30,144.18833333333333,TISTUD-9116,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-08-27 13:36:58,396699,in review,2018-08-29 04:53:30,39.275555555555556,TISTUD-9113,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-10-04 19:29:42,396700,in review,2018-10-05 05:53:13,10.391944444444444,TISTUD-9111,Appcelerator Studio,Junior-Mid,165166.0,Junior-Mid,True,0,0,False
+status,In Review,2018-08-07 10:07:45,396704,in review,2018-08-14 09:52:17,167.7422222222222,TISTUD-9107,Appcelerator Studio,,,No tier (assumed rate),False,1,1,True
+status,In Review,2018-09-06 18:38:20,396704,in review,2018-10-02 04:18:35,609.6708333333333,TISTUD-9107,Appcelerator Studio,,,No tier (assumed rate),False,1,0,False
+status,In Review,2018-07-18 03:30:12,396711,in review,2018-07-25 09:29:35,173.9897222222222,TISTUD-9099,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-07-04 05:44:00,396712,in review,2018-07-04 10:29:43,4.7619444444444445,TISTUD-9097,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-06-28 04:54:22,396714,in review,2018-06-28 09:33:41,4.655277777777778,TISTUD-9093,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-07-09 06:26:56,396715,in review,2018-07-10 08:29:14,26.038333333333334,TISTUD-9092,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-08-10 12:46:04,396716,in review,2018-08-15 07:24:02,114.63277777777778,TISTUD-9090,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-06-11 12:11:28,396719,in review,2018-06-12 09:50:22,21.648333333333333,TISTUD-9086,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-06-08 18:28:54,396720,in review,2018-06-13 08:27:04,109.96944444444445,TISTUD-9085,Appcelerator Studio,,165169.0,No tier (assumed rate),False,3,1,True
+status,In Review,2018-06-05 11:46:06,396723,in review,2018-06-11 09:08:50,141.3788888888889,TISTUD-9082,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-05-09 15:46:54,396730,in review,2018-05-16 07:15:17,159.47305555555556,TISTUD-9075,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-04-17 07:38:06,396739,in review,2018-08-14 05:22:03,2853.7325,TISTUD-9063,Appcelerator Studio,Junior,165192.0,Junior,True,1,1,True
+status,In Review,2018-04-16 10:13:07,396742,in review,2018-04-16 16:36:28,6.389166666666667,TISTUD-9060,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-04-03 05:15:55,396746,in review,2018-04-03 09:37:11,4.354444444444445,TISTUD-9055,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-04-09 06:17:55,396748,in review,2018-04-11 07:52:24,49.57472222222222,TISTUD-9053,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2018-04-04 03:03:30,396753,in review,2018-04-05 05:01:51,25.9725,TISTUD-9048,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-05-10 08:09:24,396754,in review,2018-05-15 09:42:18,121.54833333333333,TISTUD-9047,Appcelerator Studio,Junior,165192.0,Junior,True,2,1,True
+status,In Review,2018-04-04 03:04:12,396756,in review,2018-04-05 08:44:26,29.670555555555556,TISTUD-9045,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-09-14 12:01:51,396757,in review,2018-09-26 13:25:13,289.38944444444445,TISTUD-9043,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-03-22 03:49:00,396758,in review,2018-08-16 08:04:55,3532.2652777777776,TISTUD-9042,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In Review,2018-03-27 05:03:40,396763,in review,2018-04-02 05:49:46,144.76833333333335,TISTUD-9036,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-03-26 08:42:05,396764,in review,2018-04-06 09:52:08,265.1675,TISTUD-9035,Appcelerator Studio,Junior,165178.0,Junior,True,2,0,False
+status,In Review,2018-08-10 10:51:52,396767,in review,2018-08-14 07:40:39,92.81305555555555,TISTUD-9031,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-03-14 08:08:02,396769,in review,2018-03-22 08:10:51,192.04694444444445,TISTUD-9029,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2018-03-14 07:48:37,396770,in review,2018-03-22 08:13:20,192.41194444444446,TISTUD-9027,Appcelerator Studio,Junior,165192.0,Junior,True,3,0,False
+status,In Review,2018-03-20 08:23:24,396771,in review,2018-04-02 08:20:30,311.95166666666665,TISTUD-9026,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In Review,2018-03-08 09:15:43,396778,in review,2018-03-08 13:41:00,4.421388888888889,TISTUD-9018,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2018-04-03 07:32:01,396780,in review,2018-04-06 10:42:29,75.17444444444445,TISTUD-9016,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-04-09 08:35:47,396780,in review,2018-04-10 07:42:59,23.12,TISTUD-9016,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-02-02 10:30:43,396796,in review,2018-02-05 07:37:05,69.1061111111111,TISTUD-8998,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2018-02-02 09:14:42,396797,in review,2018-02-05 07:38:45,70.40083333333334,TISTUD-8997,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2018-01-24 12:02:41,396803,in review,2018-01-29 08:13:16,116.1763888888889,TISTUD-8984,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2018-02-01 11:31:13,396804,in review,2018-02-05 09:06:55,93.595,TISTUD-8983,Appcelerator Studio,Senior,165193.0,Senior,False,3,0,False
+status,In Review,2018-01-24 12:03:04,396806,in review,2018-01-25 11:17:55,23.2475,TISTUD-8981,Appcelerator Studio,Junior,165192.0,Junior,True,1,1,True
+status,In Review,2018-01-17 11:42:55,396808,in review,2018-01-22 07:32:17,115.82277777777777,TISTUD-8979,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-01-17 07:03:43,396809,in review,2018-01-18 09:58:39,26.915555555555557,TISTUD-8978,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-01-16 09:43:04,396811,in review,2018-02-01 09:34:30,383.8572222222222,TISTUD-8976,Appcelerator Studio,Senior,165168.0,Senior,False,8,5,True
+status,In Review,2018-09-14 05:55:57,396811,in review,2018-09-24 12:23:01,246.45111111111112,TISTUD-8976,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2018-01-09 08:37:44,396815,in review,2018-01-18 04:31:06,211.88944444444445,TISTUD-8971,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-12-20 01:01:37,396820,in review,2018-01-02 09:38:20,320.6119444444444,TISTUD-8966,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2017-12-18 07:15:14,396822,in review,2017-12-18 07:42:55,0.4613888888888889,TISTUD-8963,Appcelerator Studio,Junior,165192.0,Junior,True,0,0,False
+status,In Review,2017-12-04 11:11:38,396831,in review,2017-12-04 12:57:49,1.7697222222222222,TISTUD-8948,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-02-05 10:28:49,396832,in review,2018-02-20 08:52:00,358.3863888888889,TISTUD-8945,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-12-04 10:01:09,396836,in review,2017-12-04 12:24:14,2.3847222222222224,TISTUD-8940,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2017-11-30 11:03:25,396837,in review,2017-12-04 07:46:15,92.71388888888889,TISTUD-8939,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-30 06:21:34,396838,in review,2017-11-30 09:13:56,2.872777777777778,TISTUD-8938,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-30 11:59:29,396840,in review,2017-11-30 18:11:36,6.201944444444444,TISTUD-8936,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2017-11-29 04:42:58,396842,in review,2017-11-29 07:07:21,2.406388888888889,TISTUD-8934,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-28 06:46:04,396843,in review,2017-11-28 09:04:27,2.306388888888889,TISTUD-8933,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-29 06:25:43,396844,in review,2017-11-30 07:36:27,25.17888888888889,TISTUD-8932,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-26 08:52:38,396846,in review,2017-11-27 09:35:04,24.70722222222222,TISTUD-8930,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-11-26 07:46:20,396847,in review,2017-11-27 09:42:32,25.936666666666667,TISTUD-8929,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-11-26 07:47:51,396848,in review,2017-11-28 07:53:35,48.095555555555556,TISTUD-8928,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-26 07:48:26,396849,in review,2017-11-28 08:33:05,48.744166666666665,TISTUD-8927,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-26 07:32:33,396851,in review,2017-11-27 09:45:37,26.217777777777776,TISTUD-8925,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-11-23 00:57:24,396855,in review,2017-11-27 08:00:55,103.0586111111111,TISTUD-8920,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2017-11-29 07:20:38,396856,in review,2017-12-01 05:34:15,46.22694444444444,TISTUD-8919,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-22 07:17:58,396857,in review,2017-11-23 04:19:07,21.019166666666667,TISTUD-8918,Appcelerator Studio,Junior,165192.0,Junior,True,0,0,False
+status,In Review,2017-11-20 10:12:55,396861,in review,2017-11-21 06:58:00,20.75138888888889,TISTUD-8913,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-11-16 18:34:17,396862,in review,2017-11-21 06:58:20,108.40083333333334,TISTUD-8912,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-11-16 17:37:23,396863,in review,2017-11-21 06:57:22,109.33305555555556,TISTUD-8911,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-10-23 07:53:49,396871,in review,2017-10-23 11:30:39,3.613888888888889,TISTUD-8899,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-10-27 09:48:41,396880,in review,2017-11-01 09:59:17,120.17666666666666,TISTUD-8890,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-08 03:52:50,396880,in review,2017-11-17 11:20:50,223.46666666666667,TISTUD-8890,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-09-14 07:56:45,396881,in review,2018-10-23 10:54:57,938.97,TISTUD-8889,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-10-31 09:17:16,396884,in review,2017-11-10 05:14:08,235.9477777777778,TISTUD-8886,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-05-30 10:17:30,396885,in review,2018-06-13 08:52:00,334.575,TISTUD-8885,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-10-11 09:01:26,396887,in review,2017-10-12 09:02:59,24.025833333333335,TISTUD-8883,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-03 06:46:56,396889,in review,2017-11-07 09:31:32,98.74333333333334,TISTUD-8881,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-10-13 07:50:58,396890,in review,2017-10-17 09:13:07,97.36916666666667,TISTUD-8880,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-09-27 04:00:11,396896,in review,2017-11-03 04:42:09,888.6994444444445,TISTUD-8873,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2017-09-19 07:50:49,396901,in review,2017-09-19 08:23:39,0.5472222222222223,TISTUD-8866,Appcelerator Studio,Junior,165192.0,Junior,True,0,0,False
+status,In Review,2017-09-19 07:49:28,396902,in review,2017-09-22 05:23:55,69.57416666666667,TISTUD-8865,Appcelerator Studio,Junior,165192.0,Junior,True,2,1,True
+status,In Review,2017-09-19 05:45:20,396903,in review,2017-09-19 05:45:26,0.0016666666666666668,TISTUD-8864,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-09-27 04:26:46,396908,in review,2017-10-02 09:11:03,124.73805555555556,TISTUD-8859,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-08-24 13:28:25,396914,in review,2017-09-20 10:29:45,645.0222222222222,TISTUD-8852,Appcelerator Studio,Senior,165193.0,Senior,False,3,0,False
+status,In Review,2017-08-24 08:55:38,396916,in review,2017-09-01 03:02:00,186.10611111111112,TISTUD-8850,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-09-19 08:49:23,396918,in review,2017-09-22 05:40:10,68.8463888888889,TISTUD-8848,Appcelerator Studio,Senior,165193.0,Senior,False,3,0,False
+status,In Review,2017-09-27 07:33:27,396919,in review,2017-10-12 08:46:17,361.2138888888889,TISTUD-8847,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2018-09-14 07:29:41,396920,in review,2018-09-25 02:55:11,259.425,TISTUD-8846,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-11-16 16:06:05,396925,in review,2017-11-17 10:39:22,18.55472222222222,TISTUD-8841,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In Review,2017-08-18 07:54:11,396926,in review,2017-09-01 04:17:50,332.39416666666665,TISTUD-8840,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-08-03 07:15:46,396927,in review,2017-08-07 04:49:42,93.56555555555556,TISTUD-8838,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-08-17 11:21:23,396928,in review,2017-09-11 07:10:09,595.8127777777778,TISTUD-8836,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-08-17 10:35:55,396929,in review,2017-08-25 05:31:48,186.93138888888888,TISTUD-8835,Appcelerator Studio,Senior,165193.0,Senior,False,3,0,False
+status,In Review,2017-08-10 04:06:27,396933,in review,2017-08-10 08:33:44,4.454722222222222,TISTUD-8829,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-08-04 09:13:06,396935,in review,2017-08-11 11:44:33,170.52416666666667,TISTUD-8827,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-07-17 17:14:00,396940,in review,2017-07-18 07:21:29,14.124722222222223,TISTUD-8820,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2017-08-24 07:02:00,396941,in review,2017-09-01 03:02:50,188.01388888888889,TISTUD-8819,Appcelerator Studio,Junior,165192.0,Junior,True,0,0,False
+status,In Review,2017-08-07 05:41:33,396943,in review,2017-08-14 07:30:11,169.81055555555557,TISTUD-8817,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-07-07 08:10:50,396952,in review,2017-07-13 08:12:55,144.03472222222223,TISTUD-8806,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2017-07-04 16:08:58,396955,in review,2017-07-05 09:21:20,17.20611111111111,TISTUD-8800,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In Review,2017-08-24 11:34:22,396956,in review,2017-08-25 05:58:04,18.395,TISTUD-8799,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-09-08 00:19:02,396956,in review,2017-09-11 07:11:05,78.8675,TISTUD-8799,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-08-25 00:55:53,396957,in review,2017-09-05 10:52:20,273.94083333333333,TISTUD-8798,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In Review,2017-08-23 13:27:01,396958,in review,2017-09-21 06:32:36,689.0930555555556,TISTUD-8797,Appcelerator Studio,Senior,165193.0,Senior,False,3,0,False
+status,In  Review,2017-06-14 08:41:22,396959,in review,2017-06-21 02:12:49,161.52416666666667,TISTUD-8795,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-06-14 07:27:16,396960,in review,2017-06-21 01:47:10,162.33166666666668,TISTUD-8794,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-06-13 11:19:37,396962,in review,2017-06-20 05:30:13,162.17666666666668,TISTUD-8791,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-06-06 10:06:46,396966,in review,2017-06-09 00:40:45,62.56638888888889,TISTUD-8787,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2017-08-22 04:09:49,396972,in review,2017-08-23 03:54:53,23.75111111111111,TISTUD-8781,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-06-08 09:57:56,396973,in review,2017-06-21 01:43:53,303.7658333333333,TISTUD-8779,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-08-16 10:01:53,396974,in review,2017-08-17 07:39:49,21.63222222222222,TISTUD-8778,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In Review,2017-08-23 12:55:45,396975,in review,2017-09-01 03:01:10,206.09027777777777,TISTUD-8777,Appcelerator Studio,Junior,165192.0,Junior,True,0,0,False
+status,In  Review,2017-06-30 07:40:03,396976,in review,2017-06-30 09:40:25,2.006111111111111,TISTUD-8776,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-07-18 09:31:32,396977,in review,2017-08-14 10:01:21,648.4969444444445,TISTUD-8775,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2016-08-17 23:58:29,396979,in review,2016-08-19 05:39:27,29.682777777777776,TISTUD-8772,Appcelerator Studio,,165187.0,No tier (assumed rate),False,2,2,True
+status,In  Review,2017-06-08 10:02:27,396981,in review,2017-06-09 08:07:30,22.08416666666667,TISTUD-8770,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-06-08 04:48:31,396982,in review,2017-06-08 09:25:28,4.615833333333334,TISTUD-8769,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-05-17 00:07:11,396984,in review,2017-05-17 02:21:57,2.246111111111111,TISTUD-8767,Appcelerator Studio,,165169.0,No tier (assumed rate),False,0,0,False
+status,In  Review,2017-05-18 04:55:00,396990,in review,2017-05-18 05:01:50,0.11388888888888889,TISTUD-8760,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-05-18 00:28:58,396995,in review,2017-05-18 08:18:28,7.825,TISTUD-8753,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2017-06-29 10:28:15,396998,in review,2017-06-30 06:37:33,20.155,TISTUD-8749,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-06-30 01:06:04,397001,in review,2017-07-05 08:10:34,127.075,TISTUD-8746,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-05-24 10:20:23,397006,in review,2017-05-25 13:24:01,27.060555555555556,TISTUD-8740,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In Review,2017-08-21 14:50:47,397010,in review,2017-08-25 00:55:02,82.07083333333334,TISTUD-8736,Appcelerator Studio,,,No tier (assumed rate),False,2,1,True
+status,In  Review,2017-03-28 01:22:27,397016,in review,2017-04-21 06:52:50,581.5063888888889,TISTUD-8729,Appcelerator Studio,Senior,165193.0,Senior,False,3,0,False
+status,In  Review,2017-03-28 01:45:22,397018,in review,2017-04-05 07:00:18,197.2488888888889,TISTUD-8727,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In  Review,2017-03-14 08:08:13,397021,in review,2017-03-27 07:13:58,311.09583333333336,TISTUD-8724,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-03-03 03:49:14,397023,in review,2017-03-03 08:55:10,5.098888888888889,TISTUD-8721,Appcelerator Studio,Junior,165192.0,Junior,True,2,1,True
+status,In  Review,2017-03-15 12:15:02,397024,in review,2017-03-22 01:05:37,156.84305555555557,TISTUD-8720,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-02-23 01:07:03,397026,in review,2017-02-27 09:04:19,103.95444444444445,TISTUD-8718,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-02-14 17:35:55,397029,in review,2017-02-17 03:45:22,58.1575,TISTUD-8714,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-02-14 16:24:44,397030,in review,2017-02-16 06:20:38,37.931666666666665,TISTUD-8713,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In  Review,2017-03-31 12:52:34,397031,in review,2017-08-02 08:37:42,2971.7522222222224,TISTUD-8712,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-03-07 11:25:48,397032,in review,2017-03-23 08:59:24,381.56,TISTUD-8711,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-02-14 16:33:51,397033,in review,2017-03-13 03:52:06,635.3041666666667,TISTUD-8710,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-02-14 15:53:37,397036,in review,2017-02-16 04:45:37,36.86666666666667,TISTUD-8707,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-03-07 11:15:28,397038,in review,2017-03-23 08:58:39,381.71972222222223,TISTUD-8705,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-02-15 09:18:36,397040,in review,2017-03-07 11:44:34,482.4327777777778,TISTUD-8703,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-02-08 04:01:38,397041,in review,2017-02-09 05:04:50,25.053333333333335,TISTUD-8701,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-02-08 12:50:23,397043,in review,2017-02-09 04:06:19,15.265555555555556,TISTUD-8698,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2016-12-08 23:28:52,397044,in review,2017-01-03 19:32:11,620.0552777777777,TISTUD-8696,Appcelerator Studio,,165187.0,No tier (assumed rate),False,5,1,True
+status,In  Review,2017-02-02 08:11:12,397051,in review,2017-02-03 02:12:07,18.01527777777778,TISTUD-8688,Appcelerator Studio,Junior,165192.0,Junior,True,1,1,True
+status,In  Review,2017-04-20 04:54:38,397053,in review,2017-05-16 01:14:56,620.3383333333334,TISTUD-8685,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-03-08 03:59:31,397054,in review,2017-04-12 09:59:55,846.0066666666667,TISTUD-8684,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2017-04-19 09:28:27,397054,in review,2017-04-25 03:19:39,137.85333333333332,TISTUD-8684,Appcelerator Studio,Junior,165192.0,Junior,True,1,1,True
+status,In  Review,2017-05-17 09:52:36,397054,in review,2017-05-18 08:24:47,22.53638888888889,TISTUD-8684,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2017-01-10 04:32:51,397055,in review,2017-05-02 05:58:18,2689.4241666666667,TISTUD-8683,Appcelerator Studio,Senior,165193.0,Senior,False,3,0,False
+status,In  Review,2017-02-16 07:46:17,397061,in review,2017-02-22 06:24:26,142.63583333333332,TISTUD-8676,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2017-01-25 05:25:48,397062,in review,2017-01-27 00:25:41,42.99805555555555,TISTUD-8675,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-01-26 00:55:44,397066,in review,2017-01-27 12:29:06,35.556111111111115,TISTUD-8668,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2016-12-13 09:11:31,397069,in review,2016-12-14 13:06:54,27.923055555555557,TISTUD-8665,Appcelerator Studio,Junior,165192.0,Junior,True,1,1,True
+status,In  Review,2017-01-10 16:22:18,397072,in review,2017-01-11 02:10:12,9.798333333333334,TISTUD-8662,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2017-01-11 04:38:39,397072,in review,2017-01-13 04:36:20,47.96138888888889,TISTUD-8662,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-03-09 16:41:30,397077,in review,2017-04-05 06:54:31,638.2169444444445,TISTUD-8656,Appcelerator Studio,Junior,165192.0,Junior,True,2,1,True
+status,In  Review,2016-10-31 17:46:51,397088,in review,2016-11-01 07:58:55,14.20111111111111,TISTUD-8643,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In  Review,2016-11-11 19:03:13,397089,in review,2016-11-12 02:15:13,7.2,TISTUD-8642,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In  Review,2016-12-07 09:55:25,397092,in review,2016-12-09 04:15:03,42.327222222222225,TISTUD-8638,Appcelerator Studio,Junior,165192.0,Junior,True,2,1,True
+status,In Review,2017-11-13 19:02:46,397109,in review,2017-11-21 06:58:46,179.93333333333334,TISTUD-8610,Appcelerator Studio,Senior,165168.0,Senior,False,1,0,False
+status,In  Review,2016-09-29 13:33:15,397119,in review,2016-09-29 14:41:45,1.1416666666666666,TISTUD-8597,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-01-05 04:05:55,397155,in review,2017-01-16 08:23:27,268.2922222222222,TISTUD-8556,Appcelerator Studio,Junior,165192.0,Junior,True,2,2,True
+status,In  Review,2017-02-16 07:02:35,397155,in review,2017-02-22 06:53:09,143.84277777777777,TISTUD-8556,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2017-02-16 07:01:37,397159,in review,2017-02-20 10:31:02,99.49027777777778,TISTUD-8551,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2017-01-05 07:19:00,397169,in review,2017-01-11 04:30:20,141.1888888888889,TISTUD-8538,Appcelerator Studio,Junior,165192.0,Junior,True,0,0,False
+status,In  Review,2016-07-18 15:42:29,397171,in review,2016-07-19 16:21:00,24.641944444444444,TISTUD-8536,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In  Review,2016-05-24 06:30:02,397190,in review,2016-05-25 06:13:10,23.718888888888888,TISTUD-8506,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-05-11 04:48:51,397214,in review,2016-05-12 12:08:40,31.330277777777777,TISTUD-8466,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-04-26 07:11:50,397220,in review,2016-04-28 02:22:12,43.172777777777775,TISTUD-8460,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-05-31 10:38:12,397222,in review,2016-06-01 04:46:19,18.135277777777777,TISTUD-8458,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-04-14 11:52:46,397232,in review,2016-04-14 15:30:03,3.6213888888888888,TISTUD-8447,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-03-31 07:32:52,397234,in review,2016-04-04 12:54:02,101.35277777777777,TISTUD-8026,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In  Review,2016-04-12 08:45:50,397241,in review,2016-04-12 10:33:43,1.7980555555555555,TISTUD-8019,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-03-17 07:17:46,397242,in review,2016-03-29 05:44:43,286.44916666666666,TISTUD-8018,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-03-23 10:46:00,397247,in review,2016-03-29 05:39:58,138.89944444444444,TISTUD-8012,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-03-03 06:12:21,397250,in review,2016-03-15 03:26:53,285.2422222222222,TISTUD-8009,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-03-03 08:36:06,397257,in review,2016-03-11 09:16:33,192.67416666666668,TISTUD-7997,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-02-12 07:56:03,397261,in review,2016-02-12 07:59:00,0.049166666666666664,TISTUD-7991,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-02-02 17:08:47,397265,in review,2017-02-08 12:46:36,139.6302777777778,TISTUD-7984,Appcelerator Studio,Junior,165192.0,Junior,True,1,0,False
+status,In  Review,2016-02-11 06:15:18,397267,in review,2016-02-12 23:55:06,41.663333333333334,TISTUD-7982,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-11-20 10:18:08,397268,in review,2017-11-23 04:18:49,66.01138888888889,TISTUD-7981,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-12-13 08:03:26,397279,in review,2016-12-14 13:04:26,29.016666666666666,TISTUD-7965,Appcelerator Studio,Junior,165192.0,Junior,True,1,1,True
+status,In  Review,2016-01-19 06:53:17,397284,in review,2016-01-26 18:25:09,179.5311111111111,TISTUD-7960,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-01-13 11:16:35,397293,in review,2016-01-13 11:22:50,0.10416666666666667,TISTUD-7942,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-12-16 03:57:16,397311,in review,2016-01-04 19:40:03,471.71305555555557,TISTUD-7911,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2017-10-11 08:55:32,397317,in review,2017-10-13 08:55:49,48.00472222222222,TISTUD-7905,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2015-12-08 04:48:33,397320,in review,2015-12-09 04:01:53,23.22222222222222,TISTUD-7900,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-12-02 08:24:53,397321,in review,2015-12-17 04:48:34,356.39472222222224,TISTUD-7899,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-12-29 05:17:22,397330,in review,2015-12-30 06:00:47,24.72361111111111,TISTUD-7883,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-11-24 05:07:25,397333,in review,2015-11-25 09:12:40,28.0875,TISTUD-7879,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-12-09 08:26:52,397339,in review,2015-12-16 17:11:32,176.74444444444444,TISTUD-7871,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2016-08-03 05:20:37,397353,in review,2016-08-05 06:16:45,48.93555555555555,TISTUD-7855,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-11-13 03:28:00,397356,in review,2015-11-13 03:28:29,0.008055555555555555,TISTUD-7852,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-12-28 07:48:19,397365,in review,2016-02-24 07:33:37,1391.755,TISTUD-7841,Appcelerator Studio,Senior,165193.0,Senior,False,4,0,False
+status,In  Review,2017-02-15 11:31:15,397378,in review,2017-03-03 07:46:53,380.2605555555556,TISTUD-7826,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In  Review,2015-11-02 09:47:20,397381,in review,2015-11-02 18:56:08,9.146666666666667,TISTUD-7822,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-10-27 01:05:41,397396,in review,2015-10-27 04:00:12,2.908611111111111,TISTUD-7804,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-10-22 11:23:37,397401,in review,2015-10-22 16:17:16,4.894166666666667,TISTUD-7799,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-10-21 19:05:52,397404,in review,2015-10-21 19:45:34,0.6616666666666666,TISTUD-7796,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-10-20 05:58:44,397409,in review,2015-10-20 19:37:49,13.651388888888889,TISTUD-7791,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-10-19 19:35:03,397411,in review,2015-10-19 22:37:31,3.0411111111111113,TISTUD-7787,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In  Review,2015-10-29 04:08:51,397414,in review,2015-10-29 04:27:24,0.30916666666666665,TISTUD-7784,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-10-28 03:35:19,397416,in review,2015-11-05 01:19:34,189.7375,TISTUD-7782,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-10-15 05:12:58,397417,in review,2015-10-16 18:56:59,37.73361111111111,TISTUD-7781,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-10-07 16:42:45,397418,in review,2015-10-07 19:19:14,2.6080555555555556,TISTUD-7780,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-10-15 00:45:34,397418,in review,2015-10-16 23:55:19,47.1625,TISTUD-7780,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-10-14 00:09:06,397419,in review,2015-10-17 00:14:42,72.09333333333333,TISTUD-7779,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-10-29 07:10:32,397429,in review,2015-11-05 00:28:39,161.30194444444444,TISTUD-7769,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-11-16 04:27:59,397432,in review,2015-12-02 00:16:30,379.80861111111113,TISTUD-7766,Appcelerator Studio,Senior,165193.0,Senior,False,2,1,True
+status,In  Review,2016-03-11 04:10:21,397435,in review,2016-05-31 06:40:58,1946.5102777777777,TISTUD-7763,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-10-20 11:37:37,397436,in review,2015-10-22 00:58:38,37.35027777777778,TISTUD-7762,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-10-07 07:59:21,397440,in review,2015-10-09 00:03:41,40.07222222222222,TISTUD-7756,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-11-30 06:31:37,397440,in review,2015-12-17 01:16:29,402.7477777777778,TISTUD-7756,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-10-07 06:15:39,397442,in review,2015-10-09 00:01:19,41.76111111111111,TISTUD-7754,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-10-08 00:11:06,397448,in review,2015-10-16 19:38:09,211.45083333333332,TISTUD-7747,Appcelerator Studio,,165187.0,No tier (assumed rate),False,4,1,True
+status,In  Review,2015-10-28 05:35:47,397452,in review,2015-10-28 06:24:56,0.8191666666666667,TISTUD-7743,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-11-12 08:11:11,397455,in review,2015-11-16 22:00:41,109.825,TISTUD-7740,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-09-28 05:05:01,397461,in review,2015-09-28 05:20:13,0.25333333333333335,TISTUD-7732,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-11-17 09:51:29,397463,in review,2015-11-23 23:24:20,157.5475,TISTUD-7730,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-11-12 04:03:11,397470,in review,2015-11-16 22:01:36,113.97361111111111,TISTUD-7723,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-11-17 08:32:30,397472,in review,2015-11-23 23:30:18,158.96333333333334,TISTUD-7721,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-09-21 12:51:44,397474,in review,2015-09-21 17:16:52,4.418888888888889,TISTUD-7719,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2015-10-12 10:53:36,397476,in review,2015-11-07 00:39:34,613.7661111111111,TISTUD-7717,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-11-03 09:35:25,397478,in review,2015-11-03 20:12:49,10.623333333333333,TISTUD-7715,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-09-19 01:47:52,397482,in review,2015-09-21 05:51:38,52.062777777777775,TISTUD-7710,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-09-15 09:22:54,397484,in review,2015-09-21 17:48:51,152.4325,TISTUD-7708,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-09-15 08:44:07,397485,in review,2015-09-15 19:51:08,11.116944444444444,TISTUD-7706,Appcelerator Studio,Senior,165193.0,Senior,False,2,1,True
+status,In  Review,2015-09-25 08:49:35,397486,in review,2016-01-06 01:09:59,2464.34,TISTUD-7705,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-09-15 04:11:36,397487,in review,2015-10-06 08:45:40,508.5677777777778,TISTUD-7704,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-08-28 06:17:16,397498,in review,2015-08-31 14:59:21,80.70138888888889,TISTUD-7691,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-08-26 03:50:57,397503,in review,2015-08-26 19:16:30,15.425833333333333,TISTUD-7684,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-08-26 03:50:33,397504,in review,2015-08-26 19:16:17,15.428888888888888,TISTUD-7683,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-08-21 11:49:13,397507,in review,2015-08-24 16:19:39,76.50722222222223,TISTUD-7678,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-08-31 07:27:04,397511,in review,2015-09-01 18:42:58,35.265,TISTUD-7673,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-10-13 05:46:46,397521,in review,2015-10-24 01:38:30,259.8622222222222,TISTUD-7663,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-09-30 03:45:35,397522,in review,2015-10-06 08:44:25,148.98055555555555,TISTUD-7661,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-08-06 19:29:54,397523,in review,2015-08-07 07:31:53,12.033055555555556,TISTUD-7659,Appcelerator Studio,Senior,165294.0,Senior,False,2,0,False
+status,In  Review,2015-08-14 09:04:09,397528,in review,2015-08-15 05:09:57,20.096666666666668,TISTUD-7653,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-07-29 15:29:39,397529,in review,2015-08-14 17:53:57,386.405,TISTUD-7652,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-07-14 06:58:29,397536,in review,2015-07-14 15:50:12,8.861944444444445,TISTUD-7641,Appcelerator Studio,Senior,165193.0,Senior,False,2,1,True
+status,In  Review,2015-10-19 08:58:08,397538,in review,2015-10-24 01:34:23,112.60416666666667,TISTUD-7639,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-07-02 01:17:12,397544,in review,2015-07-02 22:49:51,21.544166666666666,TISTUD-7632,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-07-16 11:24:10,397551,in review,2015-07-21 00:25:36,109.02388888888889,TISTUD-7624,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-08-04 12:21:28,397551,in review,2015-08-11 04:53:32,160.53444444444443,TISTUD-7624,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-07-03 01:53:13,397553,in review,2015-07-06 18:02:26,88.1536111111111,TISTUD-7622,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2016-01-12 04:39:25,397558,in review,2016-01-26 21:25:09,352.76222222222225,TISTUD-7617,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-06-26 02:08:41,397563,in review,2015-06-26 02:13:31,0.08055555555555556,TISTUD-7612,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-06-25 23:10:20,397564,in review,2015-06-26 21:52:58,22.710555555555555,TISTUD-7611,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-06-26 01:08:12,397567,in review,2015-06-26 12:04:31,10.938611111111111,TISTUD-7608,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-06-24 00:32:20,397568,in review,2015-06-24 06:59:31,6.453055555555555,TISTUD-7607,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-07-08 11:32:14,397568,in review,2015-07-10 11:30:37,47.973055555555554,TISTUD-7607,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-01-06 06:01:22,397601,in review,2017-01-06 06:18:30,0.28555555555555556,TISTUD-7569,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2017-01-06 07:18:32,397601,in review,2017-01-16 03:48:42,236.50277777777777,TISTUD-7569,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-08-05 10:26:12,397608,in review,2015-09-14 23:02:20,972.6022222222222,TISTUD-7562,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-06-11 03:42:47,397613,in review,2015-06-22 18:57:28,279.2447222222222,TISTUD-7557,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-12-14 07:58:44,397618,in review,2015-12-14 18:17:07,10.30638888888889,TISTUD-7552,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-08-11 13:16:36,397630,in review,2015-08-19 18:16:13,196.9936111111111,TISTUD-7538,Appcelerator Studio,Senior,165193.0,Senior,False,2,1,True
+status,In  Review,2015-11-26 06:23:48,397630,in review,2015-11-27 03:01:19,20.62527777777778,TISTUD-7538,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-05-28 21:44:59,397635,in review,2015-05-29 00:52:21,3.122777777777778,TISTUD-7531,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-05-25 05:53:33,397639,in review,2015-05-26 18:48:38,36.918055555555554,TISTUD-7526,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-20 07:41:51,397642,in review,2015-05-20 14:51:35,7.162222222222222,TISTUD-7523,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-05-18 19:40:35,397646,in review,2015-05-19 02:21:35,6.683333333333334,TISTUD-7517,Appcelerator Studio,Senior,165193.0,Senior,False,2,2,True
+status,In  Review,2015-05-19 13:00:00,397646,in review,2015-05-19 21:30:23,8.506388888888889,TISTUD-7517,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-18 07:43:39,397651,in review,2015-05-18 18:16:26,10.546388888888888,TISTUD-7511,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-25 05:15:19,397656,in review,2015-06-03 10:11:27,220.93555555555557,TISTUD-7505,Appcelerator Studio,Senior,165193.0,Senior,False,1,0,False
+status,In  Review,2015-05-15 08:53:32,397661,in review,2015-05-16 18:42:57,33.82361111111111,TISTUD-7498,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-14 08:45:12,397664,in review,2015-06-03 01:22:53,472.62805555555553,TISTUD-7495,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-11-17 06:51:27,397666,in review,2015-11-23 23:29:49,160.63944444444445,TISTUD-7493,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-25 08:06:29,397668,in review,2015-05-27 23:09:06,63.04361111111111,TISTUD-7491,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-12 03:43:43,397669,in review,2015-05-12 10:31:35,6.797777777777778,TISTUD-7490,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-05-13 01:37:23,397671,in review,2015-05-13 02:04:10,0.4463888888888889,TISTUD-7488,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-05-13 11:09:59,397673,in review,2015-10-07 03:29:06,3520.3186111111113,TISTUD-7485,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-10-30 07:44:38,397674,in review,2015-11-05 00:04:53,136.3375,TISTUD-7484,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-06-11 11:34:51,397676,in review,2015-06-22 18:59:23,271.4088888888889,TISTUD-7482,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-07 08:27:41,397678,in review,2015-05-07 09:17:53,0.8366666666666667,TISTUD-7480,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-05-08 11:37:23,397678,in review,2015-05-08 19:25:52,7.808055555555556,TISTUD-7480,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-05-07 04:30:49,397679,in review,2015-05-07 09:16:20,4.758611111111111,TISTUD-7479,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In  Review,2015-05-07 09:19:51,397679,in review,2015-05-07 12:55:50,3.5997222222222223,TISTUD-7479,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-05-06 05:02:20,397681,in review,2015-05-06 06:50:46,1.8072222222222223,TISTUD-7477,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-05-06 09:37:57,397682,in review,2015-05-06 12:16:30,2.6425,TISTUD-7476,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-05-06 12:16:30,397682,in review,2015-05-06 16:56:38,4.668888888888889,TISTUD-7476,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-05-08 08:48:43,397683,in review,2015-05-13 23:04:52,134.26916666666668,TISTUD-7475,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-05-05 05:11:24,397684,in review,2015-05-05 23:21:07,18.161944444444444,TISTUD-7474,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-05-08 11:51:02,397684,in review,2015-05-08 21:26:16,9.587222222222222,TISTUD-7474,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-05-01 15:38:19,397691,in review,2015-05-01 16:34:11,0.9311111111111111,TISTUD-7467,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-04-30 09:40:21,397692,in review,2015-04-30 17:24:27,7.735,TISTUD-7466,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-04-30 16:14:47,397693,in review,2015-04-30 17:21:17,1.1083333333333334,TISTUD-7463,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2015-05-01 03:31:03,397694,in review,2015-05-05 21:34:30,114.0575,TISTUD-7462,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In  Review,2015-05-07 02:36:57,397694,in review,2015-05-07 07:58:12,5.354166666666667,TISTUD-7462,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-04-29 12:23:07,397695,in review,2015-05-05 22:11:35,153.80777777777777,TISTUD-7461,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-12 07:20:32,397696,in review,2015-05-24 03:10:42,283.8361111111111,TISTUD-7460,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In  Review,2015-05-12 08:00:33,397697,in review,2015-05-24 03:13:26,283.21472222222224,TISTUD-7459,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-04-27 21:38:30,397700,in review,2015-04-28 04:04:40,6.436111111111111,TISTUD-7456,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2015-04-29 07:39:29,397700,in review,2015-04-30 04:19:56,20.674166666666668,TISTUD-7456,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-04-27 18:31:08,397702,in review,2015-04-27 18:43:22,0.2038888888888889,TISTUD-7453,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2015-04-24 21:17:29,397705,in review,2015-04-24 21:31:40,0.2363888888888889,TISTUD-7450,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-04-24 19:02:25,397706,in review,2015-04-24 19:15:47,0.22277777777777777,TISTUD-7449,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-04-24 05:49:46,397707,in review,2015-04-24 21:38:45,15.81638888888889,TISTUD-7447,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-04-28 18:38:50,397708,in review,2015-04-29 08:20:24,13.692777777777778,TISTUD-7446,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-04-23 23:48:21,397710,in review,2015-04-23 23:58:45,0.17333333333333334,TISTUD-7443,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In  Review,2017-03-17 09:50:07,397711,in review,2018-06-22 01:20:42,11079.509722222223,TISTUD-7442,Appcelerator Studio,,,No tier (assumed rate),False,3,1,True
+status,In Review,2018-07-12 18:45:10,397711,in review,2018-09-20 18:14:54,1679.4955555555555,TISTUD-7442,Appcelerator Studio,,,No tier (assumed rate),False,0,0,False
+status,In  Review,2015-06-29 09:49:38,397715,in review,2015-07-06 18:41:01,176.8563888888889,TISTUD-7437,Appcelerator Studio,Senior,165193.0,Senior,False,2,1,True
+status,In Review,2015-04-22 19:43:52,397718,in review,2015-04-22 20:59:27,1.2597222222222222,TISTUD-7434,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In  Review,2015-05-29 00:37:46,397723,in review,2015-05-29 04:29:15,3.8580555555555556,TISTUD-7428,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In  Review,2015-06-02 22:17:31,397723,in review,2015-06-03 01:02:11,2.7444444444444445,TISTUD-7428,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-04-22 11:11:45,397725,in review,2015-04-22 18:20:07,7.139444444444444,TISTUD-7426,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-04-21 15:23:42,397729,in review,2015-04-21 18:02:22,2.6444444444444444,TISTUD-7421,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In  Review,2015-05-28 21:44:49,397732,in review,2015-05-29 00:52:34,3.129166666666667,TISTUD-7415,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-04-24 07:22:08,397733,in review,2015-04-24 19:04:58,11.713888888888889,TISTUD-7408,Appcelerator Studio,Senior,165193.0,Senior,False,3,2,True
+status,In Review,2015-04-08 08:38:58,397737,in review,2015-04-08 09:03:37,0.41083333333333333,TISTUD-7394,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2015-04-07 21:17:15,397743,in review,2015-04-07 22:57:42,1.6741666666666666,TISTUD-7386,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-04-02 09:21:55,397752,in review,2015-04-02 09:25:23,0.057777777777777775,TISTUD-7374,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2015-04-21 07:34:19,397763,in review,2015-04-21 19:43:39,12.155555555555555,TISTUD-7356,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2015-04-01 04:01:16,397764,in review,2015-04-01 04:28:04,0.44666666666666666,TISTUD-7355,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-03-31 23:57:50,397765,in review,2015-04-01 04:27:35,4.495833333333334,TISTUD-7354,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-04-04 01:20:06,397767,in review,2015-04-06 13:58:54,60.64666666666667,TISTUD-7351,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-03-31 15:50:54,397772,in review,2015-03-31 23:21:52,7.516111111111111,TISTUD-7341,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2015-04-08 01:48:50,397773,in review,2015-04-08 18:44:12,16.922777777777778,TISTUD-7340,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-04-01 22:03:21,397775,in review,2015-04-03 07:32:39,33.48833333333334,TISTUD-7338,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-04-02 03:11:45,397777,in review,2015-04-03 07:28:38,28.281388888888888,TISTUD-7335,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-04-20 10:35:57,397780,in review,2015-04-21 15:00:16,28.405277777777776,TISTUD-7332,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2015-03-30 20:15:26,397785,in review,2015-03-31 00:23:04,4.127222222222223,TISTUD-7321,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-03-30 20:15:39,397786,in review,2015-03-31 00:23:10,4.125277777777778,TISTUD-7320,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-03-26 21:54:56,397788,in review,2015-03-27 00:27:06,2.536111111111111,TISTUD-7315,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-03-30 15:36:20,397789,in review,2015-03-31 01:08:11,9.530833333333334,TISTUD-7314,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2015-04-08 20:39:45,397790,in review,2015-04-08 20:44:36,0.08083333333333333,TISTUD-7313,Appcelerator Studio,Mid,165186.0,Mid,False,0,0,False
+status,In Review,2015-04-29 12:50:21,397794,in review,2015-04-30 05:55:02,17.078055555555554,TISTUD-7301,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2015-03-23 04:32:59,397797,in review,2015-03-23 15:12:41,10.661666666666667,TISTUD-7298,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-03-27 06:49:29,397802,in review,2015-03-27 17:19:49,10.505555555555556,TISTUD-7289,Appcelerator Studio,Senior,165168.0,Senior,False,2,2,True
+status,In Review,2015-03-31 21:42:42,397802,in review,2015-04-01 04:31:03,6.805833333333333,TISTUD-7289,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2015-03-21 12:36:18,397804,in review,2015-03-21 18:11:47,5.591388888888889,TISTUD-7286,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-04-13 04:55:01,397806,in review,2015-04-13 15:23:16,10.470833333333333,TISTUD-7284,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-03-30 20:15:51,397826,in review,2015-03-31 00:23:00,4.119166666666667,TISTUD-7244,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-03-31 18:14:05,397827,in review,2015-03-31 23:22:15,5.136111111111111,TISTUD-7243,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In  Review,2015-11-19 06:37:23,397833,in review,2015-11-23 23:26:49,112.82388888888889,TISTUD-7233,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-04-14 07:30:53,397834,in review,2015-04-16 19:54:04,60.38638888888889,TISTUD-7232,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-03-31 18:13:47,397835,in review,2015-03-31 23:22:04,5.138055555555556,TISTUD-7231,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2015-04-02 15:50:17,397843,in review,2015-04-03 15:35:27,23.752777777777776,TISTUD-7210,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-03-20 10:31:59,397855,in review,2015-03-20 15:33:46,5.029722222222222,TISTUD-7198,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2015-04-07 11:19:34,397858,in review,2015-04-07 15:25:51,4.104722222222223,TISTUD-7195,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2015-02-17 23:38:42,397860,in review,2015-02-19 00:50:43,25.200277777777778,TISTUD-7191,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2015-02-25 03:19:24,397864,in review,2015-03-17 23:12:23,499.88305555555553,TISTUD-7186,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-02-04 01:31:49,397874,in review,2015-02-04 02:07:12,0.5897222222222223,TISTUD-7171,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-02-13 22:34:32,397883,in review,2015-02-14 02:39:14,4.078333333333333,TISTUD-7144,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2015-02-02 23:18:39,397884,in review,2015-02-03 21:25:31,22.114444444444445,TISTUD-7141,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In  Review,2016-12-07 05:13:38,397886,in review,2016-12-13 03:57:31,142.7313888888889,TISTUD-7138,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2015-02-09 19:51:45,397887,in review,2015-02-09 23:38:11,3.773888888888889,TISTUD-7137,Appcelerator Studio,Junior,165192.0,Junior,True,2,0,False
+status,In Review,2015-02-04 21:27:49,397898,in review,2015-02-04 23:55:50,2.4669444444444446,TISTUD-7125,Appcelerator Studio,Mid,165186.0,Mid,False,2,1,True
+status,In Review,2015-01-27 01:02:35,397900,in review,2015-01-27 01:33:05,0.5083333333333333,TISTUD-7123,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-01-28 21:33:35,397919,in review,2015-02-03 02:57:24,125.39694444444444,TISTUD-7096,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-12-16 23:35:54,397927,in review,2014-12-20 01:43:41,74.12972222222223,TISTUD-7087,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2015-01-16 00:58:45,397929,in review,2015-01-16 18:28:07,17.489444444444445,TISTUD-7085,Appcelerator Studio,Senior,165193.0,Senior,False,2,2,True
+status,In Review,2015-03-11 07:12:58,397929,in review,2015-03-14 01:00:02,65.78444444444445,TISTUD-7085,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2014-12-11 02:00:06,397936,in review,2014-12-16 22:36:08,140.60055555555556,TISTUD-7076,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-12-12 20:01:13,397940,in review,2014-12-12 20:46:41,0.7577777777777778,TISTUD-7066,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-12-11 21:26:56,397946,in review,2014-12-12 20:55:39,23.47861111111111,TISTUD-7057,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-11-26 19:51:49,397947,in review,2014-11-26 22:39:15,2.7905555555555557,TISTUD-7056,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2015-03-03 04:20:57,397948,in review,2015-03-03 22:01:17,17.67222222222222,TISTUD-7055,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2015-01-12 19:48:57,397951,in review,2015-01-13 18:35:58,22.78361111111111,TISTUD-7052,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-11-12 03:05:02,397958,in review,2014-11-14 04:07:45,49.04527777777778,TISTUD-7044,Appcelerator Studio,Senior,165193.0,Senior,False,2,2,True
+status,In  Review,2015-05-22 09:38:35,397958,in review,2015-06-15 19:22:38,585.7341666666666,TISTUD-7044,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2014-12-16 17:20:31,397959,in review,2014-12-17 22:56:31,29.6,TISTUD-7043,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-11-12 21:43:30,397961,in review,2014-11-12 21:58:02,0.24222222222222223,TISTUD-7039,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-10-27 20:55:48,397968,in review,2014-10-27 22:43:49,1.8002777777777779,TISTUD-7032,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-10-17 20:21:43,397983,in review,2014-10-18 00:35:22,4.2275,TISTUD-7015,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-10-27 22:31:34,397985,in review,2014-10-28 03:52:51,5.354722222222223,TISTUD-7012,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-11-03 23:20:55,397986,in review,2014-11-06 21:12:55,69.86666666666666,TISTUD-7011,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-30 23:15:08,397987,in review,2014-10-31 18:51:07,19.599722222222223,TISTUD-7010,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-10-16 19:52:01,397988,in review,2014-10-27 16:30:18,260.6380555555556,TISTUD-7009,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-11-05 16:20:15,397989,in review,2014-11-05 19:32:43,3.207777777777778,TISTUD-7007,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-11-21 23:18:37,397991,in review,2014-11-22 00:21:15,1.0438888888888889,TISTUD-7005,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-11-04 00:53:29,397992,in review,2014-11-04 23:27:23,22.565,TISTUD-7002,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-29 20:33:58,397993,in review,2014-10-29 23:05:00,2.5172222222222222,TISTUD-7001,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-29 00:34:55,397997,in review,2014-10-29 22:38:17,22.05611111111111,TISTUD-6997,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-15 00:24:18,397999,in review,2014-10-16 07:30:10,31.09777777777778,TISTUD-6995,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-11-03 16:31:58,398013,in review,2014-11-04 17:49:10,25.286666666666665,TISTUD-6980,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-10-24 22:23:53,398014,in review,2014-10-25 02:13:13,3.8222222222222224,TISTUD-6979,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-10-25 01:28:08,398015,in review,2014-10-25 03:09:08,1.6833333333333333,TISTUD-6978,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-11-25 23:56:02,398019,in review,2014-11-26 21:48:52,21.880555555555556,TISTUD-6974,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-10-09 15:09:31,398021,in review,2014-10-10 00:58:27,9.815555555555555,TISTUD-6972,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-10-14 23:06:01,398024,in review,2014-10-16 00:32:59,25.449444444444445,TISTUD-6969,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-09 21:03:47,398030,in review,2014-10-10 02:01:49,4.967222222222222,TISTUD-6961,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-10-07 23:46:32,398033,in review,2014-10-08 01:28:49,1.7047222222222222,TISTUD-6957,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-10-07 00:21:17,398038,in review,2014-10-07 23:23:50,23.0425,TISTUD-6951,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-30 17:45:05,398044,in review,2014-10-03 14:32:21,68.78777777777778,TISTUD-6944,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-22 15:45:32,398045,in review,2014-10-02 14:15:13,238.4947222222222,TISTUD-6943,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-11-13 02:17:35,398047,in review,2014-11-13 02:44:27,0.4477777777777778,TISTUD-6941,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-10-17 16:03:09,398048,in review,2014-10-18 00:35:07,8.532777777777778,TISTUD-6940,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-16 18:49:12,398053,in review,2014-09-16 19:29:31,0.6719444444444445,TISTUD-6933,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-25 06:03:34,398056,in review,2014-10-07 20:31:33,302.4663888888889,TISTUD-6930,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-09-12 14:42:28,398061,in review,2014-09-12 15:20:33,0.6347222222222222,TISTUD-6924,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-10-14 20:00:57,398067,in review,2014-10-14 20:33:05,0.5355555555555556,TISTUD-6918,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-09-16 16:19:55,398075,in review,2014-09-30 21:26:21,341.1072222222222,TISTUD-6910,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-10 18:42:43,398076,in review,2014-09-10 19:14:15,0.5255555555555556,TISTUD-6909,Appcelerator Studio,Senior,165168.0,Senior,False,2,0,False
+status,In Review,2014-10-09 02:47:21,398078,in review,2014-10-09 23:12:16,20.415277777777778,TISTUD-6907,Appcelerator Studio,Senior,165193.0,Senior,False,2,0,False
+status,In Review,2015-04-15 09:10:30,398078,in review,2015-04-17 15:23:04,54.20944444444444,TISTUD-6907,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2014-10-06 23:25:02,398082,in review,2014-10-07 22:55:38,23.51,TISTUD-6902,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-01 02:33:32,398083,in review,2014-10-01 23:11:34,20.63388888888889,TISTUD-6901,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-10-13 07:40:50,398084,in review,2014-10-14 22:11:30,38.51111111111111,TISTUD-6900,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-09-10 23:58:33,398088,in review,2014-09-11 15:54:26,15.93138888888889,TISTUD-6896,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-09-19 02:10:02,398092,in review,2014-09-23 18:29:34,112.32555555555555,TISTUD-6891,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-05 21:22:07,398094,in review,2014-09-06 00:34:16,3.2025,TISTUD-6889,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-05 15:15:25,398095,in review,2014-09-05 16:33:12,1.2963888888888888,TISTUD-6888,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-30 01:05:20,398096,in review,2014-10-01 00:18:07,23.213055555555556,TISTUD-6886,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-09-16 23:13:48,398097,in review,2014-09-17 17:47:48,18.566666666666666,TISTUD-6885,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-09-05 21:21:58,398098,in review,2014-09-06 00:34:22,3.2066666666666666,TISTUD-6884,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-19 00:19:09,398099,in review,2014-09-19 07:57:42,7.6425,TISTUD-6883,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-05 20:32:39,398101,in review,2014-09-08 19:58:53,71.43722222222222,TISTUD-6881,Appcelerator Studio,Senior,165294.0,Senior,False,3,2,True
+status,In Review,2014-09-04 18:43:16,398104,in review,2014-09-05 01:53:47,7.175277777777778,TISTUD-6877,Appcelerator Studio,Senior,165193.0,Senior,False,1,1,True
+status,In Review,2014-09-04 03:06:07,398107,in review,2014-09-04 17:49:54,14.729722222222222,TISTUD-6872,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-04 00:19:49,398114,in review,2014-09-04 00:57:29,0.6277777777777778,TISTUD-6865,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-26 00:47:47,398115,in review,2014-09-26 02:07:38,1.3308333333333333,TISTUD-6864,Appcelerator Studio,Senior,165294.0,Senior,False,1,0,False
+status,In Review,2014-10-06 21:09:03,398131,in review,2014-10-06 23:44:05,2.5838888888888887,TISTUD-6841,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-10-06 17:28:14,398132,in review,2014-10-08 14:30:26,45.03666666666667,TISTUD-6840,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-16 15:08:33,398133,in review,2014-09-17 20:20:35,29.200555555555557,TISTUD-6839,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-22 18:36:22,398134,in review,2014-09-23 15:31:20,20.91611111111111,TISTUD-6838,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-08 16:45:52,398135,in review,2014-09-16 13:59:03,189.21972222222223,TISTUD-6837,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-03 18:23:07,398136,in review,2014-09-05 01:37:31,31.24,TISTUD-6836,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-10-06 19:06:22,398137,in review,2014-10-08 14:30:21,43.39972222222222,TISTUD-6835,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-23 19:22:16,398138,in review,2014-09-26 16:30:59,69.14527777777778,TISTUD-6834,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-08-28 00:31:29,398139,in review,2014-08-28 18:27:52,17.939722222222223,TISTUD-6833,Appcelerator Studio,Senior,165294.0,Senior,False,2,2,True
+status,In Review,2014-08-29 14:53:03,398145,in review,2014-09-03 14:33:45,119.67833333333333,TISTUD-6825,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-08-22 14:26:23,398146,in review,2014-08-23 01:40:21,11.232777777777779,TISTUD-6824,Appcelerator Studio,Senior,165168.0,Senior,False,2,2,True
+status,In Review,2014-09-08 23:32:22,398153,in review,2014-09-09 16:13:20,16.682777777777776,TISTUD-6817,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-12-04 20:34:38,398154,in review,2014-12-05 01:10:39,4.6002777777777775,TISTUD-6815,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-08-26 19:25:03,398157,in review,2014-08-27 14:36:09,19.185,TISTUD-6811,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-08-22 15:55:08,398161,in review,2014-08-23 00:16:33,8.356944444444444,TISTUD-6805,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-08-15 19:21:21,398167,in review,2014-08-18 09:00:54,61.659166666666664,TISTUD-6786,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-08-20 21:15:54,398172,in review,2014-08-21 14:58:53,17.71638888888889,TISTUD-6778,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-11-10 19:16:41,398186,in review,2014-11-12 03:38:25,32.36222222222222,TISTUD-6759,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-08-01 20:36:56,398192,in review,2014-08-07 20:21:10,143.73722222222221,TISTUD-6749,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-07-28 19:18:29,398193,in review,2014-07-30 15:05:21,43.78111111111111,TISTUD-6748,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-08-19 14:22:38,398196,in review,2014-08-20 19:54:38,29.533333333333335,TISTUD-6745,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-08-22 14:34:05,398196,in review,2014-08-23 00:30:23,9.938333333333333,TISTUD-6745,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-07-28 16:05:29,398198,in review,2014-07-28 21:51:14,5.7625,TISTUD-6742,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-08-08 23:31:34,398201,in review,2014-08-14 14:01:34,134.5,TISTUD-6738,Appcelerator Studio,Senior,165193.0,Senior,False,2,2,True
+status,In Review,2014-09-09 23:54:58,398201,in review,2014-09-10 17:58:03,18.051388888888887,TISTUD-6738,Appcelerator Studio,Senior,165193.0,Senior,False,2,1,True
+status,In Review,2015-04-01 09:53:53,398201,in review,2015-04-01 14:24:33,4.511111111111111,TISTUD-6738,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2014-08-20 16:08:06,398202,in review,2014-08-20 23:30:52,7.379444444444444,TISTUD-6737,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-08-14 20:18:27,398203,in review,2014-08-15 17:58:48,21.6725,TISTUD-6736,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-11 02:02:22,398205,in review,2014-09-12 18:13:41,40.18861111111111,TISTUD-6733,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-10-25 01:28:35,398210,in review,2014-10-25 03:09:15,1.6777777777777778,TISTUD-6724,Appcelerator Studio,Senior,165193.0,Senior,False,2,1,True
+status,In Review,2014-07-23 22:49:32,398211,in review,2014-07-30 14:25:24,159.59777777777776,TISTUD-6722,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-08-29 17:01:45,398211,in review,2014-08-29 17:55:01,0.8877777777777778,TISTUD-6722,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-08-07 15:02:32,398212,in review,2014-08-07 21:05:46,6.053888888888889,TISTUD-6721,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-07-22 21:37:12,398219,in review,2014-07-25 01:53:10,52.26611111111111,TISTUD-6708,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-07-22 18:57:45,398224,in review,2014-07-22 21:14:42,2.2825,TISTUD-6702,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-10-17 08:42:44,398225,in review,2014-10-20 18:50:40,82.13222222222223,TISTUD-6701,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-07-17 16:37:15,398230,in review,2014-07-18 20:18:30,27.6875,TISTUD-6696,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-08-08 02:40:57,398230,in review,2014-08-08 19:19:09,16.636666666666667,TISTUD-6696,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-08-21 21:23:07,398232,in review,2014-08-25 19:15:25,93.87166666666667,TISTUD-6694,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-08-26 18:47:58,398233,in review,2014-08-26 22:09:41,3.3619444444444446,TISTUD-6693,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-08-13 21:12:58,398234,in review,2014-08-15 22:58:01,49.75083333333333,TISTUD-6692,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-08-28 18:49:13,398234,in review,2014-08-29 00:08:32,5.321944444444444,TISTUD-6692,Appcelerator Studio,Senior,165168.0,Senior,False,3,0,False
+status,In Review,2014-10-23 23:23:14,398237,in review,2014-10-24 01:56:55,2.5613888888888887,TISTUD-6689,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-30 23:57:19,398242,in review,2014-10-31 18:26:09,18.480555555555554,TISTUD-6681,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-11-14 14:03:32,398246,in review,2014-11-14 21:39:03,7.591944444444445,TISTUD-6674,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-11-13 00:42:11,398251,in review,2014-11-13 04:03:31,3.3555555555555556,TISTUD-6663,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-07-03 19:58:10,398256,in review,2014-07-04 01:02:20,5.069444444444445,TISTUD-6656,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In  Review,2015-07-29 03:28:51,398257,in review,2015-08-17 20:03:18,472.57416666666666,TISTUD-6655,Appcelerator Studio,Senior,165193.0,Senior,False,0,0,False
+status,In Review,2014-08-01 00:29:05,398258,in review,2014-08-01 21:12:18,20.720277777777778,TISTUD-6654,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-06-30 18:08:55,398264,in review,2014-06-30 19:02:50,0.8986111111111111,TISTUD-6646,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-07-28 21:31:01,398272,in review,2014-07-29 21:34:04,24.050833333333333,TISTUD-6637,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-08-22 02:41:50,398278,in review,2014-08-22 14:13:00,11.519444444444444,TISTUD-6626,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-06-25 16:11:33,398279,in review,2014-06-25 21:06:51,4.921666666666667,TISTUD-6625,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-19 18:33:52,398284,in review,2014-09-22 22:34:16,76.00666666666666,TISTUD-6616,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-22 23:23:14,398294,in review,2014-10-24 01:06:41,25.724166666666665,TISTUD-6601,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-06-06 15:14:45,398297,in review,2014-06-10 23:49:26,104.57805555555555,TISTUD-6598,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-10-21 23:49:43,398303,in review,2014-10-22 18:46:32,18.946944444444444,TISTUD-6591,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-05 01:08:14,398304,in review,2014-09-05 15:30:05,14.364166666666666,TISTUD-6590,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-10-23 01:21:29,398306,in review,2014-10-24 03:03:48,25.705277777777777,TISTUD-6582,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-10-23 00:12:21,398307,in review,2014-10-24 01:06:35,24.90388888888889,TISTUD-6581,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-10-30 20:44:36,398308,in review,2014-10-31 18:21:22,21.61277777777778,TISTUD-6580,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-08-11 14:03:17,398309,in review,2014-08-12 19:48:33,29.754444444444445,TISTUD-6579,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-10-14 20:25:42,398310,in review,2014-10-15 22:48:08,26.37388888888889,TISTUD-6578,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-06-24 16:12:58,398317,in review,2014-06-24 23:49:34,7.61,TISTUD-6558,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-08-13 20:49:23,398320,in review,2014-08-15 15:17:01,42.46055555555556,TISTUD-6552,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-05-30 15:03:46,398336,in review,2014-06-02 18:32:16,75.475,TISTUD-6534,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-05-30 15:04:17,398337,in review,2014-06-02 18:32:11,75.465,TISTUD-6533,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-05-21 21:17:39,398341,in review,2014-05-21 23:32:24,2.245833333333333,TISTUD-6528,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-05-27 18:59:12,398343,in review,2014-05-27 20:26:51,1.4608333333333334,TISTUD-6524,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2015-04-01 17:40:32,398344,in review,2015-04-01 18:23:57,0.7236111111111111,TISTUD-6523,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-05-28 18:26:41,398348,in review,2014-05-28 21:31:00,3.0719444444444446,TISTUD-6517,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-05-21 16:12:29,398349,in review,2014-05-21 21:30:54,5.3069444444444445,TISTUD-6516,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-05-21 15:43:27,398350,in review,2014-05-22 23:14:32,31.518055555555556,TISTUD-6514,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-05-20 15:42:19,398355,in review,2014-05-20 21:47:25,6.085,TISTUD-6508,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-07-22 00:20:01,398356,in review,2014-09-25 00:38:08,1560.3019444444444,TISTUD-6507,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-11-19 22:27:34,398367,in review,2014-11-21 01:22:19,26.9125,TISTUD-6495,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-05-29 00:30:33,398368,in review,2014-05-29 01:26:19,0.9294444444444444,TISTUD-6492,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-05-17 01:48:15,398370,in review,2014-05-19 16:57:19,63.15111111111111,TISTUD-6490,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-06-27 00:59:46,398398,in review,2014-06-30 17:06:14,88.10777777777778,TISTUD-6454,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-05-23 15:11:55,398418,in review,2014-05-23 21:14:49,6.048333333333333,TISTUD-6432,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-05 23:38:07,398419,in review,2014-09-08 18:14:41,66.60944444444445,TISTUD-6430,Appcelerator Studio,Junior,165418.0,Junior,True,1,1,True
+status,In Review,2014-05-13 23:31:39,398421,in review,2014-05-14 14:31:00,14.989166666666666,TISTUD-6427,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-05-09 15:53:55,398425,in review,2014-05-09 19:56:59,4.051111111111111,TISTUD-6423,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-05-09 15:47:01,398426,in review,2014-05-09 19:38:39,3.8605555555555555,TISTUD-6422,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-08-01 18:16:03,398434,in review,2014-08-01 22:24:56,4.148055555555556,TISTUD-6407,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-05-19 20:40:58,398436,in review,2014-05-19 23:35:38,2.911111111111111,TISTUD-6403,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-04-23 21:49:39,398463,in review,2014-04-24 15:29:50,17.669722222222223,TISTUD-6345,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-04-23 14:28:43,398473,in review,2014-04-24 15:29:24,25.011388888888888,TISTUD-6326,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-05-03 02:00:49,398475,in review,2014-05-07 22:16:08,116.25527777777778,TISTUD-6323,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-05-01 03:36:10,398480,in review,2014-05-01 15:12:24,11.60388888888889,TISTUD-6315,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2014-04-23 14:28:30,398493,in review,2014-04-23 19:23:05,4.909722222222222,TISTUD-6299,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-11-12 03:32:11,398494,in review,2014-11-13 20:47:45,41.25944444444445,TISTUD-6297,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-04-25 16:31:44,398511,in review,2014-04-29 14:12:13,93.67472222222223,TISTUD-6275,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-04-25 16:31:34,398520,in review,2014-04-28 20:44:52,76.22166666666666,TISTUD-6265,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2015-01-20 20:59:06,398529,in review,2015-01-21 00:11:02,3.198888888888889,TISTUD-6256,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-05-28 15:44:02,398590,in review,2014-06-04 17:23:34,169.6588888888889,TISTUD-6162,Appcelerator Studio,Senior,165168.0,Senior,False,1,1,True
+status,In Review,2014-10-02 20:45:14,398627,in review,2014-10-04 00:28:25,27.719722222222224,TISTUD-6102,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-05-19 20:08:41,398652,in review,2014-05-20 15:46:08,19.624166666666667,TISTUD-6031,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-05-13 16:46:37,398691,in review,2014-05-15 01:42:45,32.93555555555555,TISTUD-5970,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-07-14 18:50:53,399271,in review,2014-07-14 23:37:57,4.7844444444444445,TISTUD-5084,Appcelerator Studio,Senior,165168.0,Senior,False,2,1,True
+status,In Review,2014-12-03 19:12:16,399469,in review,2014-12-03 22:33:07,3.3475,TISTUD-4619,Appcelerator Studio,Senior,165294.0,Senior,False,0,0,False
+status,In Review,2014-09-02 18:41:19,399584,in review,2014-09-03 18:09:57,23.477222222222224,TISTUD-4364,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-02 18:41:09,399587,in review,2014-09-03 18:10:03,23.481666666666666,TISTUD-4361,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-03 21:36:33,399588,in review,2014-09-04 16:04:52,18.471944444444443,TISTUD-4360,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-03 21:36:21,399589,in review,2014-09-04 16:04:46,18.47361111111111,TISTUD-4359,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-02 18:41:43,399591,in review,2014-09-03 18:10:10,23.474166666666665,TISTUD-4357,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-09-02 18:41:29,399592,in review,2014-09-03 18:09:52,23.473055555555554,TISTUD-4356,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Code Review,2013-03-20 16:45:25,399605,in code review,2013-03-25 02:05:44,105.3386111111111,TISTUD-4324,Appcelerator Studio,Senior,165280.0,Senior,False,0,0,False
+status,In Review,2014-11-19 19:51:46,399686,in review,2014-11-19 22:33:18,2.692222222222222,TISTUD-4173,Appcelerator Studio,Junior,165418.0,Junior,True,0,0,False
+status,In Review,2014-07-22 18:59:29,399722,in review,2014-09-19 14:44:17,1411.7466666666667,TISTUD-4119,Appcelerator Studio,Senior,165168.0,Senior,False,0,0,False
+status,In Review,2014-04-24 02:07:13,399736,in review,2014-04-24 21:00:27,18.88722222222222,TISTUD-4087,Appcelerator Studio,Senior,165294.0,Senior,False,1,1,True
+status,In Review,2012-12-20 23:03:07,400213,in review,2012-12-20 23:42:50,0.6619444444444444,TISTUD-3029,Appcelerator Studio,Mid,165559.0,Mid,False,0,0,False
