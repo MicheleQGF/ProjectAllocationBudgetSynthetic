@@ -3,7 +3,7 @@
 How does the seniority mix of a team relate to what it delivers, what it costs and how often work comes back? This project analyzes ~20,800 real Jira issues from three open-source projects (Mule, Titanium Mobile Platform, Appcelerator Studio). It uses earned value management (EVM), burn-up, effort concentration, rework, lateness and bus-factor measures, and presents the results as a five-dashboard Tableau story.
 
 **Stack:** Python (pandas, NumPy, SciPy, Simpful), MySQL 8.0 in Docker, SQLAlchemy, Jupyter, Tableau.
-**Dashboards:** [(https://public.tableau.com/views/FullProjectAllocationBudget_Dashboards_04/HoursUtil?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+**Dashboards:** [Tableau Public story](https://public.tableau.com/views/FullProjectAllocationBudget_Dashboards_04/HoursUtil?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -112,6 +112,7 @@ The steps follow the notebooks.
 | Analysis exports (Tableau) | `A_throughput_sprint.csv` | 564 rows | One row per sprint: heads, Senior share, output per head |
 | | `A_review_stints.csv` | 1,024 rows | One row per visit of an issue to a review status |
 | | `B_reopen_counts.csv` | 2,627 rows | Reopen events per issue |
+| Tableau export (02) | `evm_monthly.csv` | 19 columns | Monthly version of the USD EVM (budget, cost, PV, EV, CPI, EAC, VAC) |
 | | `C_bus_factor_year.csv`, `C_mentorship_span.csv` | one row per project and year | Bus factor and learners per mentor |
 
 ---
@@ -161,7 +162,7 @@ The steps follow the notebooks.
 - **EV** = points completed. **Baseline** = capped hours per completed point over all earlier sprints (at least 100 completed points). **AC** = capped hours of finished issues. **CPI** = earned hours ÷ actual hours.
 - **PV is time-based:** a straight line from the first priced sprint to the sprint where the final earned points were reached. SPI = % done ÷ % of time elapsed. A first version used each sprint's starting scope as the plan and was dropped, because scope growth alone pushed SPI to 1.3 to 1.5.
 - Issues closed without delivery (Won't Fix, Duplicate, Cannot Reproduce and similar) leave the scope on their closing date, earn nothing, and their hours stay in cost.
-- **USD version:** the same EVM with the simulated budget as BAC, counted from the first priced sprint.
+- **USD version:** the same EVM with the simulated budget as BAC, counted from the first priced sprint. Because the first priced sprint comes after some of the cost was already incurred (23% of Appcelerator's cost, 37% of Mule's and 33% of Titanium's), the BAC is scaled to the measured window, that is, to the cost from the first priced sprint onward.
 
 ### 5.6 Simulated budgets
 Three situations were built from each project's own capped cost: Mule at 120% (comfortable), Titanium at 85% (tight) and Appcelerator a fixed annual amount rounded to $100K. The variances follow from those choices.
@@ -239,7 +240,7 @@ Mule: 34% of delivered sprint issues were resolved after their sprint ended, aga
 | Mule | Comfortable | $26.46M | $22.05M | +16.7% | 83.3% |
 | Titanium | Tight | $9.29M | $10.93M | −17.6% | 117.6% |
 
-- Titanium crossed its budget in **August 2018**. Mule never did.
+- Titanium crossed its budget in **August 2018**. Mule never did. Appcelerator's monthly series ends at 99.8% of its budget; it reaches 104.4% only when the cost of issues still open (about $355K, no resolution date) is added to the totals.
 - SPI starts at 3.4 (Appcelerator) and 2.8 (Titanium) and converges to 1.0. Mule is the only project that starts behind (0.7 and 0.6), recovers and peaks at 1.4.
 - **An SPI above 1 does not mean ahead of schedule.** The data has no planned dates, so the plan is an even-pace line from the first measured sprint to the last. Scope also kept growing after sprints started (+35% to +49%), so the target moved while the work was running. A first version used each sprint's starting scope as the plan, and the points added mid-sprint pushed SPI above 1 at the end of all three projects (1.28, 1.50 and 1.33). That version was dropped because it rewarded scope growth, not speed.
 - The final SPI is always 1.0 by construction, so only the shape of delivery over time says anything: Appcelerator and Titanium delivered most of their points early, and Mule delivered most of its points in the middle years.
@@ -320,6 +321,7 @@ tawos_data/                        Working folder of notebooks 00 to 02
     main_part3.csv                 Same table with tiers, rates and owner categories (end of 01)
     team_tier_matching.csv, hra_tech_scored.csv, team_profiles_v1.csv   Matching and HR profiles (01)
     projects_dataset.csv, evm_sprint.csv, project_budgets.csv, cost_monthly.csv   Final datasets (02)
+    evm_monthly.csv                Monthly USD EVM export for Tableau (02)
     FullProjectAllocationBudgetDatasets/   Working folder of the analysis notebook
         the five final datasets, main_part3.csv, Change_Log.csv, Comment.csv, Issue_Component.csv, Component.csv (copied from tawos_data)
         A_throughput_sprint.csv, A_review_stints.csv, B_reopen_counts.csv, C_bus_factor_year.csv, C_mentorship_span.csv (written by the analysis)
@@ -333,7 +335,7 @@ Not stored in the repository: `TAWOS.sql` (about 4.3 GB), the Kaggle HRA file an
 2. **Start MySQL.** Install Docker Desktop, set the password in the `MYSQL_ROOT_PASSWORD` environment variable, then follow the PowerShell steps in `00_Docker_Setup.ipynb` to start the container, import the dump (a few minutes) and verify it.
 3. **Run `00_Docker_Setup.ipynb`.** It exports the tables to `tawos_data/`, explores and standardizes them, and writes `main_part2.csv`.
 4. **Run `01_hraFusion.ipynb`.** It builds the tiers, the fuzzy HR scores, the matching and the rates, and writes `main_part3.csv`, `team_tier_matching.csv`, `hra_tech_scored.csv` and `team_profiles.csv`. Rename `team_profiles.csv` to `team_profiles_v1.csv` (the notebook has a cell for it).
-5. **Run `02_ratesEVMandBudgets.ipynb`.** It writes `evm_sprint.csv`, `project_budgets.csv`, `cost_monthly.csv` and the final `projects_dataset.csv`.
+5. **Run `02_ratesEVMandBudgets.ipynb`.** It writes `evm_sprint.csv`, `evm_monthly.csv`, `project_budgets.csv`, `cost_monthly.csv` and the final `projects_dataset.csv`.
 6. **Run `FullProjectAllocationBudget.ipynb`.** First copy the five final datasets, `main_part3.csv`, `Change_Log.csv`, `Comment.csv`, `Issue_Component.csv` and `Component.csv` into its working folder. It writes the A, B and C exports.
 7. **Open Tableau.** Use `projects_dataset.csv` as the main source and relate the other files on project name or issue ID.
 
